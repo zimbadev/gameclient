@@ -1,0 +1,32 @@
+[ 2024-12-16 08:38:28,372 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-12-16 08:38:28,577 ] Using spritesheet cache size of 910
+[ 2024-12-16 08:38:29,844 ] Asset loading complete
+[ 2024-12-16 08:38:30,092 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1be62393480), parent's thread is QThread(0x1be56d80170), current thread is QSGRenderThread(0x1be659ab970)
+[ 2024-12-16 08:39:03,408 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-12-16 08:39:03,576 ] Using spritesheet cache size of 910
+[ 2024-12-16 08:39:04,730 ] Asset loading complete
+[ 2024-12-16 08:39:04,955 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x21817923b10), parent's thread is QThread(0x21808ec70c0), current thread is QSGRenderThread(0x218173871c0)
+[ 2024-12-16 08:40:01,985 ] News query failed: "Unrecognized event news."
+[ 2024-12-16 08:40:12,896 ] News query failed: "Unrecognized event news."
+[ 2024-12-16 08:40:14,995 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-12-16 08:40:15,001 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2024-12-16 08:40:15,015 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2024-12-16 08:40:15,057 ] News query failed: "Unrecognized event news."
+[ 2024-12-16 08:40:20,878 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2024-12-16 08:40:20,919 ] Disconnected from gameserver
+[ 2024-12-16 08:40:20,950 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 1713945425 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-12-16 08:41:08,576 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-12-16 08:41:08,743 ] Using spritesheet cache size of 910
+[ 2024-12-16 08:41:09,914 ] Asset loading complete
+[ 2024-12-16 08:41:10,144 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x212d56b0900), parent's thread is QThread(0x212c9f50650), current thread is QSGRenderThread(0x212d8782ca0)
+[ 2024-12-16 08:41:14,323 ] News query failed: "Unrecognized event news."
+[ 2024-12-16 08:41:15,204 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2024-12-16 08:41:15,210 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2024-12-16 08:41:15,224 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2024-12-16 08:41:15,241 ] News query failed: "Unrecognized event news."
+[ 2024-12-16 08:41:35,164 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2024-12-16 08:41:35,213 ] Disconnected from gameserver
+[ 2024-12-16 08:41:35,331 ] News query failed: "Unrecognized event news."
