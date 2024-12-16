@@ -8,6 +8,7 @@
             "battleListFilters": [
             ],
             "battleListSortOrder": [
+                "byAgeAscending",
                 "byAgeAscending"
             ],
             "contentHeight": 513,
@@ -21,6 +22,7 @@
             "battleListFilters": [
             ],
             "battleListSortOrder": [
+                "byAgeAscending",
                 "byAgeAscending"
             ],
             "contentHeight": 38,
@@ -167,8 +169,11 @@
     "skillsWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true,
+        "defenceStatsVisible": true,
         "invisibleProgressBars": [
-        ]
+        ],
+        "miscStatsVisible": true,
+        "offenceStatsVisible": true
     },
     "spellListWidgetOptions": {
         "contentHeight": 0,
