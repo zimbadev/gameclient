@@ -1,0 +1,27 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Double skill day.",
+            "displaypriority": 6,
+            "enddate": 1655002800,
+            "isseasonal": false,
+            "name": "Double Skill",
+            "specialevent": 0,
+            "startdate": 1655002800
+        },
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "NPC Valentina, comercio de itens decorativos. Também concede presente para jogadores level 300+.",
+            "displaypriority": 6,
+            "enddate": 1654916400,
+            "isseasonal": false,
+            "name": "Valentine's Day",
+            "specialevent": 1,
+            "startdate": 1654916400
+        }
+    ],
+    "lastupdatetimestamp": 1747059326
+}

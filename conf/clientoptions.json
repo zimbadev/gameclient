@@ -10,17 +10,16 @@
     },
     "clientOptionsVersion": 8,
     "clientWindowOptions": {
-        "clientWindowHeight": 650,
+        "clientWindowHeight": 0,
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 745,
-        "clientWindowPositionY": 464,
+        "clientWindowPositionX": 0,
+        "clientWindowPositionY": 0,
         "clientWindowScreenName": "HORIZON Z21",
-        "clientWindowWidth": 1020
+        "clientWindowWidth": 0
     },
     "controlButtonsOptions": {
         "disabledButtons": [
-            "friendsDialog"
         ],
         "enabledButtons": [
             "skillsWidget",
@@ -34,9 +33,9 @@
             "highscoresDialog",
             "playerGuide",
             "manageShortcuts",
-            "questTrackerWidget",
-            "skillWheelDialog",
             "partyWidget",
+            "skillWheelDialog",
+            "questTrackerWidget",
             "unjustifiedPoinsWidget",
             "preyDialog",
             "preyWidget",
@@ -47,7 +46,8 @@
             "bosstiaryTrackerWidget",
             "bestiaryTrackerWidget",
             "imbuementTrackerWidget",
-            "exaltationForgeDialog"
+            "exaltationForgeDialog",
+            "friendsDialog"
         ]
     },
     "deviceCookieOptions": [
@@ -827,14 +827,6 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 9,
-                            "actionsetting": {
-                                "chatText": "/m hydra,8",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 2,
                             "actionsetting": {
                                 "useObject": 268,
@@ -845,7 +837,7 @@
                             "actionBar": 1,
                             "actionButton": 3,
                             "actionsetting": {
-                                "chatText": "exori",
+                                "chatText": "exura infir ico",
                                 "sendAutomatically": true
                             }
                         },
@@ -854,22 +846,6 @@
                             "actionButton": 4,
                             "actionsetting": {
                                 "chatText": "exori infir min",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 7,
-                            "actionsetting": {
-                                "chatText": "exori mas",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 8,
-                            "actionsetting": {
-                                "chatText": "exori gran",
                                 "sendAutomatically": true
                             }
                         }
@@ -3150,7 +3126,7 @@
         "consoleShowInfoMessages": true,
         "consoleShowJoinLeaveMessages": true,
         "consoleShowLevels": true,
-        "consoleShowStatusMessagesOfOthers": false,
+        "consoleShowStatusMessagesOfOthers": true,
         "consoleShowStatusMessagesOwn": true,
         "consoleShowTimestamps": true,
         "consoleShowTimestampsSeconds": false,
@@ -3169,9 +3145,9 @@
         "creatureShowName": true,
         "dragAndDropDefaultActionIsMoveAll": true,
         "emergencyDialogVersion": 0,
-        "frameRateLimit": 200,
+        "frameRateLimit": 60,
         "frameRateLimitEnabled": false,
-        "gameWindowLowerPaneHeight": 217,
+        "gameWindowLowerPaneHeight": 216,
         "gameWindowResizingMode": 0,
         "gameWindowScaleOnlyByEvenMultiples": false,
         "gameWindowShowBoostedCreatureMessages": true,
@@ -3188,24 +3164,23 @@
         "gameWindowShowTargetHighlight": true,
         "gameWindowShowTextualEffects": true,
         "gameWindowShowTragetFrame": true,
-        "gameWindowUpperPaneHeight": 739,
+        "gameWindowUpperPaneHeight": 362,
         "inspectPlayerAllowAllEnabled": false,
-        "keyboardDelayMs": 0,
-        "keyboardDelayUseDefault": false,
-        "launcherPatchFixupDone": false,
-        "lightAmbientLevel": 1,
+        "keyboardDelayMs": 250,
+        "keyboardDelayUseDefault": true,
+        "lightAmbientLevel": 0.25,
         "lightAttenuationCloudsIndoor": 0.75,
         "lightEffectsEnabled": true,
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
         "loginEmailAddress": "teste@gmail.com",
-        "lootSchemeIndex": 1,
+        "lootSchemeIndex": 0,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
         "mouseBigCursor": false,
         "mouseHighlightTarget": true,
-        "mouseSystemCursor": false,
-        "openNewPrivateMessagesInNewTab": true,
+        "mouseSystemCursor": true,
+        "openNewPrivateMessagesInNewTab": false,
         "optionsShowAdvanced": true,
         "playerHudArcDistance": 0.25,
         "playerHudArcHeight": 0.3499999940395355,
@@ -3247,12 +3222,12 @@
         "screnshotsOnlyGameWindow": true,
         "sessionRemainLoggedIn": true,
         "showEMailAsPlainText": true,
-        "showExpireInContainers": true,
+        "showExpireInContainers": false,
         "showExpireInInventory": true,
         "showExpireWhenUnused": true,
-        "showFpsLagIndicator": true,
+        "showFpsLagIndicator": false,
         "soundAmbienceVolume": 100,
-        "soundAnthemEnabled": true,
+        "soundAnthemEnabled": false,
         "soundBattleCreaturesAttacksEnabled": true,
         "soundBattleCreaturesDeathEnabled": true,
         "soundBattleCreaturesNoisesEnabled": true,
@@ -3272,7 +3247,7 @@
         "soundEatingEnabled": true,
         "soundEventsVolume": 100,
         "soundItemsVolume": 100,
-        "soundMasterVolume": 0,
+        "soundMasterVolume": 100,
         "soundMasterVolumeOld": 100,
         "soundMoveItemEnabled": true,
         "soundMusicVolume": 50,
@@ -3280,15 +3255,14 @@
         "soundUiInteractionsEnabled": true,
         "soundUiVolume": 100,
         "soundVipEnabled": true,
-        "stashAskBeforeStowContainerContent": false,
+        "stashAskBeforeStowContainerContent": true,
         "statusBarEnabled": true,
-        "statusPanelEnabled": true,
+        "statusPanelEnabled": false,
         "storeAskBeforeBuyingProducts": true,
         "useFreetypeRenderer": false,
         "vSyncEnabled": false
     },
     "pinnedCharacters": [
-        "1f8c16044419c48333715ae2a712e6e0a30722d3c56bc9f581496910af47df8d",
         "a6b12e5677ed98b96ac06c641b39540fbec8b2e69bc3871540ad516ec203b551"
     ],
     "rendererChangeConfirmationRequired": false,
