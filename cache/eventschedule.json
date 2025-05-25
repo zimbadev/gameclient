@@ -1,27 +1,27 @@
 {
     "eventlist": [
         {
-            "colordark": "#735D10",
-            "colorlight": "#8B6D05",
-            "description": "Double skill day.",
-            "displaypriority": 6,
-            "enddate": 1655002800,
-            "isseasonal": false,
-            "name": "Double Skill",
-            "specialevent": 0,
-            "startdate": 1655002800
-        },
-        {
             "colordark": "#235c00",
             "colorlight": "#2d7400",
-            "description": "NPC Valentina, comercio de itens decorativos. Também concede presente para jogadores level 300+.",
+            "description": "Otserver br example 1 description double exp and a half, double loot !chance!, regular spawn and double skill",
             "displaypriority": 6,
-            "enddate": 1654916400,
+            "enddate": 1703905200,
             "isseasonal": false,
-            "name": "Valentine's Day",
-            "specialevent": 1,
-            "startdate": 1654916400
+            "name": "Example 1",
+            "specialevent": 0,
+            "startdate": 1604372400
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Otserver br example 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill",
+            "displaypriority": 6,
+            "enddate": 1703991600,
+            "isseasonal": false,
+            "name": "Example 2",
+            "specialevent": 0,
+            "startdate": 1643770800
         }
     ],
-    "lastupdatetimestamp": 1747059326
+    "lastupdatetimestamp": 1748172292
 }

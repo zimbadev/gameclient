@@ -1,10 +1,1 @@
-[ 2025-05-12 11:29:31,323 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
-[ 2025-05-12 11:29:31,482 ] Using spritesheet cache size of 910
-[ 2025-05-12 11:29:32,613 ] Asset loading complete
-[ 2025-05-12 11:29:32,898 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x290c6ef1460), parent's thread is QThread(0x290b85d10b0), current thread is QSGRenderThread(0x290c41cc960)
-[ 2025-05-12 11:32:07,815 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
-[ 2025-05-12 11:32:07,822 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2025-05-12 11:32:07,837 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2025-05-12 11:32:43,256 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2025-05-12 11:32:43,311 ] Disconnected from gameserver
+-----
