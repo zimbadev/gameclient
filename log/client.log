@@ -1,1 +1,125 @@
------
+[ 2025-07-10 08:25:52,051 ] Using spritesheet cache size of 910
+[ 2025-07-10 08:25:54,963 ] Client is started for first the time.
+[ 2025-07-10 08:25:55,159 ] Asset loading complete
+[ 2025-07-10 08:25:55,517 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x26e44c082d0), parent's thread is QThread(0x26e3c78b9e0), current thread is QSGRenderThread(0x26e3c6eb260)
+[ 2025-07-10 08:26:19,659 ] Using spritesheet cache size of 910
+[ 2025-07-10 08:26:21,704 ] Asset loading complete
+[ 2025-07-10 08:26:22,083 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x24d8ffb50e0), parent's thread is QThread(0x24d87b7ab80), current thread is QSGRenderThread(0x24d87ad8b70)
+[ 2025-07-10 14:38:37,958 ] Using spritesheet cache size of 910
+[ 2025-07-10 14:38:48,683 ] Asset loading complete
+[ 2025-07-10 14:38:50,316 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x20a0c54c410), parent's thread is QThread(0x20a02e1eef0), current thread is QSGRenderThread(0x20a0c204f40)
+[ 2025-07-10 14:53:37,927 ] Using spritesheet cache size of 910
+[ 2025-07-10 14:53:47,418 ] Asset loading complete
+[ 2025-07-10 14:53:48,557 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2b2d871f9c0), parent's thread is QThread(0x2b2d131da70), current thread is QSGRenderThread(0x2b2dad14d90)
+[ 2025-07-10 14:54:08,973 ] Using spritesheet cache size of 910
+[ 2025-07-10 14:54:10,200 ] Asset loading complete
+[ 2025-07-10 14:54:10,482 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1a8956241e0), parent's thread is QThread(0x1a88d3f2ba0), current thread is QSGRenderThread(0x1a894421200)
+[ 2025-07-10 15:04:04,427 ] Using spritesheet cache size of 910
+[ 2025-07-10 15:04:05,803 ] Asset loading complete
+[ 2025-07-10 15:04:06,110 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1c058c3aeb0), parent's thread is QThread(0x1c04f6db950), current thread is QSGRenderThread(0x1c058b36d50)
+[ 2025-07-10 15:05:19,366 ] Using spritesheet cache size of 910
+[ 2025-07-10 15:05:20,424 ] Asset loading complete
+[ 2025-07-10 15:05:21,175 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1cd25a417b0), parent's thread is QThread(0x1cd1c2d0180), current thread is QSGRenderThread(0x1cd23b1eca0)
+[ 2025-07-10 15:08:45,620 ] Using spritesheet cache size of 910
+[ 2025-07-10 15:08:46,708 ] Asset loading complete
+[ 2025-07-10 15:08:47,379 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x255633e86f0), parent's thread is QThread(0x2555af4e040), current thread is QSGRenderThread(0x2556a125c70)
+[ 2025-07-10 15:09:23,012 ] Using spritesheet cache size of 910
+[ 2025-07-10 15:09:23,864 ] Asset loading complete
+[ 2025-07-10 15:09:24,750 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x196c74ad360), parent's thread is QThread(0x196bfe56f20), current thread is QSGRenderThread(0x196cf8beaa0)
+[ 2025-07-10 15:10:19,128 ] BattlEye: "Initialized (v1.249)"
+[ 2025-07-10 15:10:19,128 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-07-10 15:10:19,128 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-07-10 15:10:19,129 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-07-10 15:10:19,129 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-07-10 15:10:19,258 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Admin" )
+[ 2025-07-10 15:10:19,264 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 15:10:19,276 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 15:13:11,599 ] Retrying to obtain clipboard.
+[ 2025-07-10 15:13:19,721 ] Retrying to obtain clipboard.
+[ 2025-07-10 15:14:07,004 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2025-07-10 15:14:07,059 ] Disconnected from gameserver
+[ 2025-07-10 15:33:50,374 ] Using spritesheet cache size of 910
+[ 2025-07-10 15:33:51,996 ] Asset loading complete
+[ 2025-07-10 15:33:52,737 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1cd75623bb0), parent's thread is QThread(0x1cd6de94fc0), current thread is QSGRenderThread(0x1cd75fd5210)
+[ 2025-07-10 15:34:00,496 ] BattlEye: "Initialized (v1.249)"
+[ 2025-07-10 15:34:00,497 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-07-10 15:34:00,497 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-07-10 15:34:00,497 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-07-10 15:34:00,497 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-07-10 15:34:00,611 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Admin" )
+[ 2025-07-10 15:34:00,618 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 15:34:00,634 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 15:34:21,444 ] Retrying to obtain clipboard.
+[ 2025-07-10 15:34:22,017 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2025-07-10 15:34:22,068 ] Disconnected from gameserver
+[ 2025-07-10 15:40:36,581 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Admin" )
+[ 2025-07-10 15:40:36,587 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 15:40:36,602 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 15:42:48,231 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435465 found"
+[ 2025-07-10 15:42:48,232 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435465 found"
+[ 2025-07-10 15:44:17,768 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2025-07-10 15:44:17,880 ] Disconnected from gameserver
+[ 2025-07-10 15:49:23,617 ] Using spritesheet cache size of 910
+[ 2025-07-10 15:49:25,543 ] Asset loading complete
+[ 2025-07-10 15:49:26,246 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x29e590274b0), parent's thread is QThread(0x29e4f927cb0), current thread is QSGRenderThread(0x29e579754c0)
+[ 2025-07-10 15:49:40,791 ] BattlEye: "Initialized (v1.249)"
+[ 2025-07-10 15:49:40,792 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-07-10 15:49:40,792 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-07-10 15:49:40,792 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-07-10 15:49:40,792 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-07-10 15:49:40,955 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Admin" )
+[ 2025-07-10 15:49:40,960 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 15:49:40,977 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 15:50:27,938 ] Retrying to obtain clipboard.
+[ 2025-07-10 15:52:15,157 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2025-07-10 15:52:15,224 ] Disconnected from gameserver
+[ 2025-07-10 15:54:05,074 ] Retrying to obtain clipboard.
+[ 2025-07-10 17:24:30,410 ] Using spritesheet cache size of 910
+[ 2025-07-10 17:24:38,957 ] Asset loading complete
+[ 2025-07-10 17:24:41,821 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x21c75f6dc30), parent's thread is QThread(0x21c6ddb9950), current thread is QSGRenderThread(0x21c763470d0)
+[ 2025-07-10 17:24:47,602 ] BattlEye: "Initialized (v1.249)"
+[ 2025-07-10 17:24:47,602 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-07-10 17:24:47,603 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-07-10 17:24:47,603 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-07-10 17:24:47,603 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-07-10 17:24:47,768 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Admin" )
+[ 2025-07-10 17:24:47,780 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 17:24:47,787 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 17:25:00,330 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2025-07-10 17:25:00,389 ] Disconnected from gameserver
+[ 2025-07-10 17:25:21,201 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Admin" )
+[ 2025-07-10 17:25:21,204 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 17:25:21,218 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-10 17:26:05,828 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2025-07-10 17:26:05,897 ] Disconnected from gameserver
+[ 2025-07-20 12:14:08,077 ] Using spritesheet cache size of 910
+[ 2025-07-20 12:14:15,982 ] Asset loading complete
+[ 2025-07-20 12:14:17,263 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1cc58905020), parent's thread is QThread(0x1cc4f7507f0), current thread is QSGRenderThread(0x1cc60411e60)
+[ 2025-07-20 12:14:24,189 ] BattlEye: "Initialized (v1.249)"
+[ 2025-07-20 12:14:24,189 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-07-20 12:14:24,189 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-07-20 12:14:24,189 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-07-20 12:14:24,189 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-07-20 12:14:24,276 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Admin" )
+[ 2025-07-20 12:14:24,283 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-20 12:14:24,296 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-20 12:14:43,495 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2025-07-20 12:14:43,547 ] Disconnected from gameserver
+[ 2025-07-20 12:14:49,465 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Crash Bandicoot" )
+[ 2025-07-20 12:14:49,467 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-20 12:14:49,482 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2025-07-20 12:16:43,143 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2025-07-20 12:16:43,204 ] Disconnected from gameserver

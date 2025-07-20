@@ -4,34 +4,22 @@
         "lootChannelOpen": false,
         "openChannels": [
             3,
+            5,
             7
         ]
     },
     "clientOptionsVersion": 9,
     "clientWindowOptions": {
-        "clientWindowHeight": 0,
+        "clientWindowHeight": 650,
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 0,
-        "clientWindowPositionY": 0,
+        "clientWindowPositionX": -207,
+        "clientWindowPositionY": 240,
         "clientWindowScreenName": "HORIZON Z21",
-        "clientWindowWidth": 0
+        "clientWindowWidth": 1020
     },
     "controlButtonsOptions": {
         "disabledButtons": [
-        ],
-        "enabledButtons": [
-            "skillsWidget",
-            "battleListWidget",
-            "spellListWidget",
-            "vipWidget",
-            "lenshelpFunction",
-            "questDialog",
-            "compendiumDialog",
-            "cyclopediaDialog",
-            "highscoresDialog",
-            "playerGuide",
-            "manageShortcuts",
             "partyWidget",
             "skillWheelDialog",
             "questTrackerWidget",
@@ -47,6 +35,19 @@
             "imbuementTrackerWidget",
             "exaltationForgeDialog",
             "friendsDialog"
+        ],
+        "enabledButtons": [
+            "skillsWidget",
+            "battleListWidget",
+            "spellListWidget",
+            "vipWidget",
+            "lenshelpFunction",
+            "questDialog",
+            "compendiumDialog",
+            "cyclopediaDialog",
+            "highscoresDialog",
+            "playerGuide",
+            "manageShortcuts"
         ]
     },
     "deviceCookieOptions": [
@@ -253,6 +254,12 @@
                     },
                     {
                         "actionsetting": {
+                            "action": "ToggleManualSortMode"
+                        },
+                        "keysequence": "Shift+S"
+                    },
+                    {
+                        "actionsetting": {
                             "action": "PreviousChannel"
                         },
                         "keysequence": "Shift+Backtab"
@@ -358,12 +365,6 @@
                             "action": "ToggleMounted"
                         },
                         "keysequence": "Ctrl+R"
-                    },
-                    {
-                        "actionsetting": {
-                            "action": "ToggleManualSortMode"
-                        },
-                        "keysequence": "Ctrl+S"
                     },
                     {
                         "actionsetting": {
@@ -629,7 +630,7 @@
                         "actionsetting": {
                             "action": "ToggleManualSortMode"
                         },
-                        "keysequence": "Ctrl+S"
+                        "keysequence": "Shift+S"
                     },
                     {
                         "actionsetting": {
@@ -817,7 +818,7 @@
         "showStaticHotkeysFirst": true
     },
     "news": {
-        "maxunlocklevel": 1001
+        "maxunlocklevel": 0
     },
     "options": {
         "ChatEnabled": true,
@@ -911,10 +912,10 @@
         "keyboardDelayUseDefault": true,
         "lightAmbientLevel": 0.25,
         "lightAttenuationCloudsIndoor": 0.75,
-        "lightEffectsEnabled": false,
+        "lightEffectsEnabled": true,
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
-        "loginEmailAddress": "teste@gmail.com",
+        "loginEmailAddress": "test@gmail.com",
         "lootSchemeIndex": 0,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
@@ -928,7 +929,7 @@
         "playerHudArcOpacity": 1,
         "playerHudArcWidth": 10,
         "playerHudEnabled": true,
-        "playerHudShowArcs": true,
+        "playerHudShowArcs": false,
         "playerHudShowBars": true,
         "playerHudShowHarmonyLeft": true,
         "playerShowHarmonySerene": true,
@@ -970,7 +971,7 @@
         "showExpireWhenUnused": true,
         "showFpsLagIndicator": false,
         "soundAmbienceVolume": 100,
-        "soundAnthemEnabled": false,
+        "soundAnthemEnabled": true,
         "soundBattleCreaturesAttacksEnabled": true,
         "soundBattleCreaturesDeathEnabled": true,
         "soundBattleCreaturesNoisesEnabled": true,
@@ -1000,14 +1001,12 @@
         "soundVipEnabled": true,
         "stashAskBeforeStowContainerContent": true,
         "statusBarEnabled": true,
-        "statusPanelEnabled": true,
-        "storeAskBeforeBuyingProducts": false,
+        "statusPanelEnabled": false,
+        "storeAskBeforeBuyingProducts": true,
         "useFreetypeRenderer": false,
         "vSyncEnabled": false
     },
     "pinnedCharacters": [
-        "1f8c16044419c48333715ae2a712e6e0a30722d3c56bc9f581496910af47df8d",
-        "a6b12e5677ed98b96ac06c641b39540fbec8b2e69bc3871540ad516ec203b551"
     ],
     "rendererChangeConfirmationRequired": false,
     "survey": {
