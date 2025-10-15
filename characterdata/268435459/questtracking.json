@@ -1,0 +1,14 @@
+{
+    "hiddenQuestLines": [
+    ],
+    "options": {
+        "autoTrackNewQuests": true,
+        "autoUntrackCompletedQuests": true,
+        "showCompletedInQuestLog": true,
+        "showHiddenInQuestLog": false
+    },
+    "pinnedQuestLines": [
+    ],
+    "trackedQuests": [
+    ]
+}
