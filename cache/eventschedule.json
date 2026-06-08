@@ -21,7 +21,18 @@
             "name": "Example 2",
             "specialevent": 0,
             "startdate": 1643770800
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Find more Fiendish monsters on the map. Double Fiendish Rate: 200%",
+            "displaypriority": 0,
+            "enddate": 1736910000,
+            "isseasonal": false,
+            "name": "Double Fiendish Weekend",
+            "specialevent": 0,
+            "startdate": 1736305200
         }
     ],
-    "lastupdatetimestamp": 1760538608
+    "lastupdatetimestamp": 1780840223
 }
