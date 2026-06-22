@@ -1,1220 +1,390 @@
-[ 2025-12-05 13:04:06,964 ] Using spritesheet cache size of 910
-[ 2025-12-05 13:04:07,104 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2025-12-05 13:04:07,112 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2025-12-05 13:04:10,818 ] Client is started for first the time.
-[ 2025-12-05 13:04:11,100 ] Asset loading complete
-[ 2025-12-05 13:04:11,195 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x1ffba7b4d90), parent's thread is QThread(0x1ffb25389a0), current thread is QSGRenderThread(0x1ffb2497000)
-[ 2025-12-08 10:45:01,758 ] Using spritesheet cache size of 910
-[ 2025-12-08 10:45:01,961 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2025-12-08 10:45:01,969 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2025-12-08 10:45:17,848 ] Asset loading complete
-[ 2025-12-08 10:45:20,563 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x27cf8cb4d80), parent's thread is QThread(0x27cf188d290), current thread is QSGRenderThread(0x27cf97dd890)
-[ 2025-12-08 10:46:23,352 ] BattlEye: "Initialized (v1.249)"
-[ 2025-12-08 10:46:23,352 ] BattlEye: "Config entry: GameID tibia"
-[ 2025-12-08 10:46:23,352 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2025-12-08 10:46:23,500 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2025-12-08 10:46:23,500 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2025-12-08 10:46:23,526 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2025-12-08 10:46:23,956 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2025-12-08 10:46:24,054 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2025-12-08 10:46:27,354 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2025-12-08 10:50:19,112 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2025-12-08 10:50:19,112 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2025-12-08 10:50:19,162 ] Disconnected from gameserver
-[ 2026-01-18 09:45:02,208 ] Using spritesheet cache size of 910
-[ 2026-01-18 09:45:02,296 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-01-18 09:45:02,301 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-01-18 09:45:03,660 ] Asset loading complete
-[ 2026-01-18 09:45:04,813 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x1afa95d56f0), parent's thread is QThread(0x1afa2260d90), current thread is QSGRenderThread(0x1afaa25df70)
-[ 2026-01-18 17:03:14,348 ] Using spritesheet cache size of 910
-[ 2026-01-18 17:03:14,486 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-01-18 17:03:14,497 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-01-18 17:03:29,862 ] Asset loading complete
-[ 2026-01-18 17:03:32,238 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x2818b8e3b90), parent's thread is QThread(0x2818449bf00), current thread is QSGRenderThread(0x2818d8e85b0)
-[ 2026-01-18 17:08:54,942 ] Retrying to obtain clipboard.
-[ 2026-01-18 17:10:11,923 ] BattlEye: "Initialized (v1.249)"
-[ 2026-01-18 17:10:11,924 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-01-18 17:10:11,924 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-01-18 17:10:12,075 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Anninha Paladina" )
-[ 2026-01-18 17:10:12,076 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-01-18 17:10:12,102 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-01-18 17:10:12,531 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
-[ 2026-01-18 17:10:12,589 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
-[ 2026-01-18 17:10:16,916 ] BattlEye: "Server computed GUID: 5fd02760bd910d2e2c911d7ea42bbcb3"
-[ 2026-01-18 17:12:00,181 ] Retrying to obtain clipboard.
-[ 2026-02-02 09:27:21,263 ] Using spritesheet cache size of 910
-[ 2026-02-02 09:27:21,352 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-02-02 09:27:21,359 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-02-02 09:27:22,525 ] Asset loading complete
-[ 2026-02-02 09:27:24,232 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x21a9ff6adf0), parent's thread is QThread(0x21a98a17a40), current thread is QSGRenderThread(0x21aa7390050)
-[ 2026-02-02 09:28:00,950 ] BattlEye: "Initialized (v1.249)"
-[ 2026-02-02 09:28:00,950 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-02-02 09:28:00,950 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-02-02 09:28:01,072 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Kalexus" )
-[ 2026-02-02 09:28:01,072 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-02-02 09:28:01,094 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-02-02 09:28:01,594 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
-[ 2026-02-02 09:28:01,662 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
-[ 2026-02-02 09:28:04,946 ] BattlEye: "Server computed GUID: b735fbc87a301dbc2eab3d22914e004d"
-[ 2026-02-02 09:31:40,196 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-02-02 09:31:40,196 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-02-02 09:31:40,254 ] Disconnected from gameserver
-[ 2026-02-04 08:38:05,749 ] Using spritesheet cache size of 910
-[ 2026-02-04 08:38:05,939 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-02-04 08:38:05,945 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-02-04 08:38:07,766 ] Asset loading complete
-[ 2026-02-04 08:38:08,261 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x18c70e4ae50), parent's thread is QThread(0x18c69746a60), current thread is QSGRenderThread(0x18c72f1cc50)
-[ 2026-02-04 08:38:42,691 ] BattlEye: "Initialized (v1.249)"
-[ 2026-02-04 08:38:42,691 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-02-04 08:38:42,691 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-02-04 08:38:42,786 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-02-04 08:38:42,786 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-02-04 08:38:42,808 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-02-04 08:38:43,220 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-02-04 08:38:43,273 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-02-04 08:38:47,687 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-02-04 08:41:59,466 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-02-04 08:41:59,467 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-02-04 08:41:59,550 ] Disconnected from gameserver
-[ 2026-02-04 08:42:08,217 ] BattlEye: "Initialized (v1.249)"
-[ 2026-02-04 08:42:08,217 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-02-04 08:42:08,217 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-02-04 08:42:08,457 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshi" )
-[ 2026-02-04 08:42:08,457 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
-[ 2026-02-04 08:42:08,490 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
-[ 2026-02-04 08:42:08,957 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"
-[ 2026-02-04 08:42:09,168 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra" established
-[ 2026-02-04 08:42:12,218 ] BattlEye: "Server computed GUID: c5f1434b400af958c4cf4f80aebf4156"
-[ 2026-02-04 08:43:08,891 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-02-04 08:43:08,891 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-02-04 08:43:08,944 ] Disconnected from gameserver
-[ 2026-02-04 08:43:12,718 ] BattlEye: "Initialized (v1.249)"
-[ 2026-02-04 08:43:12,719 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-02-04 08:43:12,719 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-02-04 08:43:12,816 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshi" )
-[ 2026-02-04 08:43:12,816 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
-[ 2026-02-04 08:43:12,842 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
-[ 2026-02-04 08:43:13,283 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"
-[ 2026-02-04 08:43:13,343 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra" established
-[ 2026-02-04 08:43:14,891 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-02-04 08:43:14,891 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-02-04 08:43:14,942 ] Disconnected from gameserver
-[ 2026-03-06 08:58:25,179 ] Using spritesheet cache size of 910
-[ 2026-03-06 08:58:25,307 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-03-06 08:58:25,315 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-03-06 08:58:26,682 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-06 08:58:27,871 ] Asset loading complete
-[ 2026-03-06 08:58:28,419 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x1cb26eefbc0), parent's thread is QThread(0x1cb1d81de90), current thread is QSGRenderThread(0x1cb25a5e3d0)
-[ 2026-03-06 08:59:25,011 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 08:59:25,011 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 08:59:25,011 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 08:59:25,153 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-06 08:59:25,154 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 08:59:25,176 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 08:59:25,620 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 08:59:25,678 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-06 08:59:29,010 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-06 08:59:48,774 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 08:59:48,791 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 08:59:48,809 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 08:59:48,824 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 08:59:48,840 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 08:59:48,858 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 08:59:49,080 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 08:59:49,095 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 08:59:52,667 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 08:59:52,679 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_CharacterNameChange.png")
-[ 2026-03-06 08:59:52,784 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 08:59:52,784 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 08:59:55,785 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 08:59:55,787 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 08:59:55,788 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 08:59:55,789 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 08:59:55,790 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 08:59:55,791 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 08:59:55,807 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 08:59:55,809 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_CharacterNameChange.png")
-[ 2026-03-06 09:00:58,605 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 09:00:58,607 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 09:00:58,608 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 09:00:58,609 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 09:00:58,610 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 09:00:58,611 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 09:00:58,631 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 09:00:58,632 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_CharacterNameChange.png")
-[ 2026-03-06 09:01:04,507 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 09:01:04,509 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 09:01:04,509 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 09:01:04,510 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 09:01:04,511 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 09:01:04,512 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 09:01:04,525 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 09:01:04,527 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_CharacterNameChange.png")
-[ 2026-03-06 09:01:30,276 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 09:01:30,277 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 09:01:30,278 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 09:01:30,280 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 09:01:30,281 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 09:01:30,282 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 09:01:30,292 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 09:01:30,293 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_CharacterNameChange.png")
-[ 2026-03-06 09:03:26,776 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:03:26,776 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:03:26,849 ] Disconnected from gameserver
-[ 2026-03-06 09:32:49,855 ] Using spritesheet cache size of 910
-[ 2026-03-06 09:32:50,009 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-03-06 09:32:50,014 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-03-06 09:32:51,240 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-06 09:32:52,102 ] Asset loading complete
-[ 2026-03-06 09:32:52,517 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x1c7175dff70), parent's thread is QThread(0x1c71017a130), current thread is QSGRenderThread(0x1c7174d38c0)
-[ 2026-03-06 09:34:12,037 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 09:34:12,037 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 09:34:12,037 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 09:34:12,160 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Kalexus" )
-[ 2026-03-06 09:34:12,160 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 09:34:12,185 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 09:34:12,606 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 09:34:12,920 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
-[ 2026-03-06 09:34:17,028 ] BattlEye: "Server computed GUID: b735fbc87a301dbc2eab3d22914e004d"
-[ 2026-03-06 09:34:21,237 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:34:21,237 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:34:21,289 ] Disconnected from gameserver
-[ 2026-03-06 09:34:23,379 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 09:34:23,380 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 09:34:23,380 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 09:34:23,487 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Kalexus" )
-[ 2026-03-06 09:34:23,487 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 09:34:23,510 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 09:34:23,903 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 09:34:23,935 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
-[ 2026-03-06 09:34:26,369 ] BattlEye: "Server computed GUID: b735fbc87a301dbc2eab3d22914e004d"
-[ 2026-03-06 09:34:26,595 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 09:34:26,597 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 09:34:26,598 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 09:34:26,599 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 09:34:26,600 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 09:34:26,601 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 09:34:26,638 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 09:34:26,640 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 09:35:18,237 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:35:18,237 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:35:18,296 ] Disconnected from gameserver
-[ 2026-03-06 09:35:24,905 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 09:35:24,906 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 09:35:24,906 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 09:35:25,016 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Anninha Paladina" )
-[ 2026-03-06 09:35:25,017 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 09:35:25,040 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 09:35:25,510 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 09:35:25,722 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
-[ 2026-03-06 09:35:29,904 ] BattlEye: "Server computed GUID: 5fd02760bd910d2e2c911d7ea42bbcb3"
-[ 2026-03-06 09:35:40,237 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:35:40,237 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:35:40,305 ] Disconnected from gameserver
-[ 2026-03-06 09:35:44,983 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 09:35:44,983 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 09:35:44,983 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 09:35:45,094 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Maga da Portelinha" )
-[ 2026-03-06 09:35:45,094 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:35:45,122 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:35:45,592 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:35:45,617 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-06 09:35:48,982 ] BattlEye: "Server computed GUID: d5cb6a17b303f6633f09b93c249efcd7"
-[ 2026-03-06 09:36:17,738 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:36:17,738 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:36:17,804 ] Disconnected from gameserver
-[ 2026-03-06 09:36:20,177 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 09:36:20,177 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 09:36:20,177 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 09:36:20,285 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Rullys Monkado" )
-[ 2026-03-06 09:36:20,285 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:36:20,308 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:36:20,680 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:36:20,706 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-06 09:36:22,737 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:36:22,737 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:36:22,800 ] Disconnected from gameserver
-[ 2026-03-06 09:36:41,193 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 09:36:41,193 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 09:36:41,193 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 09:36:41,307 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yirosh" )
-[ 2026-03-06 09:36:41,307 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:36:41,330 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:36:41,734 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:36:41,788 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-06 09:36:45,183 ] BattlEye: "Server computed GUID: d606b0dd83e4689bd368a6015997d56c"
-[ 2026-03-06 09:50:04,737 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:50:04,737 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 09:50:04,797 ] Disconnected from gameserver
-[ 2026-03-06 09:50:12,075 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 09:50:12,075 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 09:50:12,075 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 09:50:12,232 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-06 09:50:12,232 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:50:12,256 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:50:12,759 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 09:50:12,951 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-06 09:50:16,075 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-06 10:04:42,690 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 10:04:42,690 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 10:04:42,774 ] Disconnected from gameserver
-[ 2026-03-06 10:05:39,850 ] Using spritesheet cache size of 910
-[ 2026-03-06 10:05:39,947 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-03-06 10:05:39,952 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-03-06 10:05:46,998 ] Asset loading complete
-[ 2026-03-06 10:05:47,058 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-06 10:05:48,369 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x2a471c8cdb0), parent's thread is QThread(0x2a443da6730), current thread is QSGRenderThread(0x2a44c07f760)
-[ 2026-03-06 10:07:43,914 ] Using spritesheet cache size of 910
-[ 2026-03-06 10:07:44,099 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-03-06 10:07:44,106 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-03-06 10:07:45,539 ] Asset loading complete
-[ 2026-03-06 10:07:45,573 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-06 10:07:46,677 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x209b2ea5fb0), parent's thread is QThread(0x2098508aeb0), current thread is QSGRenderThread(0x2098df64520)
-[ 2026-03-06 10:09:17,296 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 10:09:17,296 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 10:09:17,296 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 10:09:17,427 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-06 10:09:17,427 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 10:09:17,451 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 10:09:17,871 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 10:09:17,938 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-06 10:09:21,292 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-06 10:09:28,692 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 10:09:28,692 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 10:09:28,745 ] Disconnected from gameserver
-[ 2026-03-06 10:11:35,051 ] Using spritesheet cache size of 910
-[ 2026-03-06 10:11:35,195 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-03-06 10:11:35,201 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-03-06 10:11:36,575 ] Asset loading complete
-[ 2026-03-06 10:11:36,606 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-06 10:11:37,779 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x1fe5c091ce0), parent's thread is QThread(0x1fe2e31a600), current thread is QSGRenderThread(0x1fe36221360)
-[ 2026-03-06 10:12:12,490 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 10:12:12,490 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 10:12:12,490 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 10:12:12,613 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-06 10:12:12,613 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 10:12:12,636 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 10:12:13,066 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 10:12:13,118 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-06 10:12:16,480 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-06 10:28:10,633 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 10:28:10,643 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 10:28:10,655 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 10:28:10,665 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 10:28:10,675 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 10:28:10,684 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 10:28:10,754 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 10:28:10,770 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 10:31:31,428 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 10:31:31,429 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 10:31:31,431 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 10:31:31,432 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 10:31:31,433 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 10:31:31,434 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 10:31:31,463 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 10:31:31,464 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_ExtraServices.png")
-[ 2026-03-06 10:31:31,465 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Convenience.png")
-[ 2026-03-06 10:31:31,467 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_UsefulThings_PermanentHuntingTaskSlot.png")
-[ 2026-03-06 10:31:31,468 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_UsefulThings_UnlimitedBonusUsage.png")
-[ 2026-03-06 10:31:31,470 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_UsefulThings_PermanentPreySlot.png")
-[ 2026-03-06 10:31:31,476 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_UsefulThings_CollectionTokens.png")
-[ 2026-03-06 10:31:31,489 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 10:31:31,489 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 10:31:31,489 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 10:33:25,318 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 10:33:25,319 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 10:33:25,320 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 10:33:25,321 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 10:33:25,322 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 10:33:25,323 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 10:33:25,347 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 10:33:25,348 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 10:34:30,821 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 10:34:30,822 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 10:34:30,823 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 10:34:30,824 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 10:34:30,825 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 10:34:30,826 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 10:34:30,863 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 10:34:30,864 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:19:56,789 ] qrc:/qt/qml/qmlcomponents/qml/battlelist.qml:298:13 Parameter "MouseX" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead.
-[ 2026-03-06 11:51:19,064 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-06 11:51:19,073 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-06 11:51:19,085 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-06 11:51:19,095 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-06 11:51:19,105 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-06 11:51:19,114 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-06 11:51:19,190 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-06 11:51:19,204 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:33,948 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:33,959 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:33,964 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:33,966 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:33,969 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:34,032 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:34,033 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:35,831 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:35,831 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:35,834 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:35,841 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:35,845 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:35,849 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:35,853 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseDecorations.png")
-[ 2026-03-06 11:51:35,854 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Furniture.png")
-[ 2026-03-06 11:51:35,928 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Beds.png")
-[ 2026-03-06 11:51:35,930 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Houseupgrades.png")
-[ 2026-03-06 11:51:35,930 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools_NPCApprenticeships.png")
-[ 2026-03-06 11:51:35,930 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools_NPCDresses.png")
-[ 2026-03-06 11:51:35,964 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:35,964 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:35,965 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:35,965 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:35,966 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:36,838 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:36,839 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:36,839 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:36,839 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:36,839 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:36,867 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Blessings.png")
-[ 2026-03-06 11:51:36,868 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Casks.png")
-[ 2026-03-06 11:51:36,868 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_ExerciseWeapons.png")
-[ 2026-03-06 11:51:36,869 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Kegs.png")
-[ 2026-03-06 11:51:36,869 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Potions.png")
-[ 2026-03-06 11:51:36,870 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Runes.png")
-[ 2026-03-06 11:51:36,934 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Solitude.png")
-[ 2026-03-06 11:51:36,940 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Phoenix.png")
-[ 2026-03-06 11:51:36,944 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Suns.png")
-[ 2026-03-06 11:51:36,946 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Shielding.png")
-[ 2026-03-06 11:51:36,954 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Tibia.png")
-[ 2026-03-06 11:51:36,960 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_HeartOfTheMountain.png")
-[ 2026-03-06 11:51:36,975 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_BloodOfTheMountain.png")
-[ 2026-03-06 11:51:36,981 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_AllPvE.png")
-[ 2026-03-06 11:51:37,002 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Fate.png")
-[ 2026-03-06 11:51:37,036 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:37,037 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:37,038 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:37,369 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Kegs.png")
-[ 2026-03-06 11:51:37,464 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Kegs.png")
-[ 2026-03-06 11:51:37,546 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Solitude.png")
-[ 2026-03-06 11:51:37,547 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Phoenix.png")
-[ 2026-03-06 11:51:37,548 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Suns.png")
-[ 2026-03-06 11:51:37,549 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Shielding.png")
-[ 2026-03-06 11:51:37,551 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Tibia.png")
-[ 2026-03-06 11:51:37,552 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_HeartOfTheMountain.png")
-[ 2026-03-06 11:51:37,555 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:37,555 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:37,555 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:37,619 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_BloodOfTheMountain.png")
-[ 2026-03-06 11:51:37,620 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_AllPvE.png")
-[ 2026-03-06 11:51:37,622 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Blessings.png")
-[ 2026-03-06 11:51:37,623 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Kegs.png")
-[ 2026-03-06 11:51:37,663 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:37,664 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:38,162 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Runes.png")
-[ 2026-03-06 11:51:38,271 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Runes.png")
-[ 2026-03-06 11:51:38,341 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:38,342 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:38,342 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:38,343 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:38,363 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Kegs.png")
-[ 2026-03-06 11:51:38,365 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Runes.png")
-[ 2026-03-06 11:51:38,465 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:38,466 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:38,947 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Potions.png")
-[ 2026-03-06 11:51:39,038 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Potions.png")
-[ 2026-03-06 11:51:39,134 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,135 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,135 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,135 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,136 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,158 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Potions.png")
-[ 2026-03-06 11:51:39,160 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Runes.png")
-[ 2026-03-06 11:51:39,523 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_ExerciseWeapons.png")
-[ 2026-03-06 11:51:39,622 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_ExerciseWeapons.png")
-[ 2026-03-06 11:51:39,734 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,734 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,734 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,735 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,736 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,767 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_ExerciseWeapons.png")
-[ 2026-03-06 11:51:39,769 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Potions.png")
-[ 2026-03-06 11:51:39,861 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:39,861 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:40,049 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Blessings.png")
-[ 2026-03-06 11:51:40,174 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Blessings.png")
-[ 2026-03-06 11:51:40,299 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:40,299 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:40,300 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:40,300 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:40,314 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Blessings.png")
-[ 2026-03-06 11:51:40,317 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_ExerciseWeapons.png")
-[ 2026-03-06 11:51:40,319 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Solitude.png")
-[ 2026-03-06 11:51:40,320 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Phoenix.png")
-[ 2026-03-06 11:51:40,322 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Suns.png")
-[ 2026-03-06 11:51:40,323 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Shielding.png")
-[ 2026-03-06 11:51:40,326 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:40,380 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Tibia.png")
-[ 2026-03-06 11:51:40,381 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_HeartOfTheMountain.png")
-[ 2026-03-06 11:51:40,383 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_BloodOfTheMountain.png")
-[ 2026-03-06 11:51:40,384 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_AllPvE.png")
-[ 2026-03-06 11:51:40,386 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Fate.png")
-[ 2026-03-06 11:51:40,969 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Solitude.png")
-[ 2026-03-06 11:51:40,971 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Phoenix.png")
-[ 2026-03-06 11:51:40,973 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Suns.png")
-[ 2026-03-06 11:51:40,975 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Shielding.png")
-[ 2026-03-06 11:51:40,977 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Tibia.png")
-[ 2026-03-06 11:51:40,978 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_HeartOfTheMountain.png")
-[ 2026-03-06 11:51:41,018 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_BloodOfTheMountain.png")
-[ 2026-03-06 11:51:41,020 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_AllPvE.png")
-[ 2026-03-06 11:51:41,033 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Tibia.png")
-[ 2026-03-06 11:51:41,039 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Fate.png")
-[ 2026-03-06 11:51:41,043 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Suns.png")
-[ 2026-03-06 11:51:41,046 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Shielding.png")
-[ 2026-03-06 11:51:42,589 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_AllPvE.png")
-[ 2026-03-06 11:51:42,593 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_HeartOfTheMountain.png")
-[ 2026-03-06 11:51:42,597 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_BloodOfTheMountain.png")
-[ 2026-03-06 11:51:42,602 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Phoenix.png")
-[ 2026-03-06 11:51:42,606 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Solitude.png")
-[ 2026-03-06 11:51:42,610 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Tibia.png")
-[ 2026-03-06 11:51:42,659 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Fate.png")
-[ 2026-03-06 11:51:42,661 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:43,298 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:43,299 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:43,314 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:43,320 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:43,321 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:43,325 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:43,332 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:43,335 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:43,339 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:45,480 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:45,485 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:45,488 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:45,492 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:45,505 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:46,302 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:46,303 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:46,317 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:46,323 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:46,324 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:46,329 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:46,335 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:46,338 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:46,342 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:48,134 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:48,139 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:48,144 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:48,148 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:48,164 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:48,692 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:48,693 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:48,712 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:48,719 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Blessings.png")
-[ 2026-03-06 11:51:48,720 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Casks.png")
-[ 2026-03-06 11:51:48,721 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_ExerciseWeapons.png")
-[ 2026-03-06 11:51:48,723 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Kegs.png")
-[ 2026-03-06 11:51:48,724 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Potions.png")
-[ 2026-03-06 11:51:48,730 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:48,784 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Runes.png")
-[ 2026-03-06 11:51:48,785 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Solitude.png")
-[ 2026-03-06 11:51:48,789 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Phoenix.png")
-[ 2026-03-06 11:51:48,790 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Suns.png")
-[ 2026-03-06 11:51:48,792 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Shielding.png")
-[ 2026-03-06 11:51:48,794 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Tibia.png")
-[ 2026-03-06 11:51:48,801 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_HeartOfTheMountain.png")
-[ 2026-03-06 11:51:48,804 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_BloodOfTheMountain.png")
-[ 2026-03-06 11:51:48,805 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_AllPvE.png")
-[ 2026-03-06 11:51:48,806 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Fate.png")
-[ 2026-03-06 11:51:49,334 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_AllPvE.png")
-[ 2026-03-06 11:51:49,340 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_HeartOfTheMountain.png")
-[ 2026-03-06 11:51:49,344 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_BloodOfTheMountain.png")
-[ 2026-03-06 11:51:49,347 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Phoenix.png")
-[ 2026-03-06 11:51:49,352 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Solitude.png")
-[ 2026-03-06 11:51:49,359 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Tibia.png")
-[ 2026-03-06 11:51:49,399 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_Blessing_Fate.png")
-[ 2026-03-06 11:51:49,401 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:50,194 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:50,195 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:50,213 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:50,223 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:50,224 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:50,228 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:50,236 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:50,241 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:50,246 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:51,125 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:51,129 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:51,132 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:51,137 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:51,149 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:51,729 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:51,729 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:51,743 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:51,751 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:51,752 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:51,756 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:51,763 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:51,768 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:51,771 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:52,325 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:52,329 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:52,333 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:52,338 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:52,350 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:52,834 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:52,835 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:52,848 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:52,856 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:52,857 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:52,861 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:52,867 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:52,871 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:52,875 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:53,382 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:53,386 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:53,391 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:53,396 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:53,415 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:53,884 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:53,885 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:53,896 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:53,904 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:53,905 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:53,910 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:53,917 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:53,922 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:53,925 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:54,327 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:54,332 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:54,336 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:54,340 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:54,355 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:54,807 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:54,809 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:54,823 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:54,829 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:54,830 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:54,833 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:54,841 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:54,847 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:54,850 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:55,428 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:55,432 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:55,437 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:55,441 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:55,456 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:55,984 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:55,985 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:55,996 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:56,004 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:56,005 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:56,009 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:56,017 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:56,021 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:56,025 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:56,580 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:56,585 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:56,589 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:56,593 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:56,606 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:57,136 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:57,137 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:57,151 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:57,159 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:57,160 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:57,164 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:57,171 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:57,175 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:57,180 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:57,830 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:57,835 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:57,841 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:57,847 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:57,859 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:58,378 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:58,379 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:58,391 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:58,397 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:58,399 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:58,404 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:58,413 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:58,418 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:58,424 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:58,877 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:58,882 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:58,886 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:58,891 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:51:58,902 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:59,479 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:59,481 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:59,493 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:51:59,501 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:59,502 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:51:59,507 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:51:59,516 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:51:59,521 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:51:59,525 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:52:00,077 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:52:00,081 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:52:00,086 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:52:00,090 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:52:00,106 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:52:00,810 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:52:00,811 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:52:00,825 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:52:00,831 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:52:00,832 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:52:00,841 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:52:00,849 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:52:00,854 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:52:00,858 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:52:01,428 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:52:01,432 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:52:01,436 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:52:01,441 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:52:01,455 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:52:02,881 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:52:03,804 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:52:04,332 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:52:04,333 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:52:04,352 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-06 11:52:04,361 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:52:04,361 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-03-06 11:52:04,366 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
-[ 2026-03-06 11:52:04,372 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
-[ 2026-03-06 11:52:04,378 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
-[ 2026-03-06 11:52:04,385 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
-[ 2026-03-06 11:55:11,526 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 11:55:11,526 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 11:55:11,526 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-06 11:55:11,639 ] Disconnected from gameserver
-[ 2026-03-06 13:40:28,531 ] Using spritesheet cache size of 910
-[ 2026-03-06 13:40:28,623 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-03-06 13:40:28,629 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-03-06 13:40:36,917 ] Asset loading complete
-[ 2026-03-06 13:40:37,019 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-06 13:40:38,351 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x1aa7e39b0b0), parent's thread is QThread(0x1aa66696e30), current thread is QSGRenderThread(0x1aa6e8aa740)
-[ 2026-03-06 13:41:12,027 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 13:41:12,027 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 13:41:12,027 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 13:41:12,167 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-06 13:41:12,167 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 13:41:12,189 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 13:41:12,668 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-06 13:41:12,729 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-06 13:41:16,026 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-06 14:58:35,261 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 14:58:35,262 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 14:58:35,262 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-06 14:58:35,321 ] Disconnected from gameserver
-[ 2026-03-06 14:58:39,651 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 14:58:39,651 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 14:58:39,651 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 14:58:39,790 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshi" )
-[ 2026-03-06 14:58:39,790 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
-[ 2026-03-06 14:58:39,813 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"
-[ 2026-03-06 14:58:40,249 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"
-[ 2026-03-06 14:58:40,325 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra" established
-[ 2026-03-06 14:58:44,652 ] BattlEye: "Server computed GUID: c5f1434b400af958c4cf4f80aebf4156"
-[ 2026-03-06 14:59:22,757 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 14:59:22,757 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Kalibra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 14:59:22,816 ] Disconnected from gameserver
-[ 2026-03-06 14:59:56,210 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-06 14:59:56,211 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-06 14:59:56,211 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-06 14:59:56,333 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Kalexus" )
-[ 2026-03-06 14:59:56,333 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 14:59:56,356 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 14:59:56,809 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
-[ 2026-03-06 14:59:56,876 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
-[ 2026-03-06 15:00:01,199 ] BattlEye: "Server computed GUID: b735fbc87a301dbc2eab3d22914e004d"
-[ 2026-03-06 15:00:14,707 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 15:00:14,707 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-06 15:00:14,762 ] Disconnected from gameserver
-[ 2026-03-07 08:53:36,558 ] Using spritesheet cache size of 910
-[ 2026-03-07 08:53:36,733 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-03-07 08:53:36,741 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-03-07 08:53:47,427 ] Asset loading complete
-[ 2026-03-07 08:53:47,553 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-07 08:53:49,326 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x1aeab0101b0), parent's thread is QThread(0x1aefd1663c0), current thread is QSGRenderThread(0x1ae860e8520)
-[ 2026-03-07 08:54:52,609 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-07 08:54:52,609 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-07 08:54:52,609 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-07 08:54:52,811 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-07 08:54:52,812 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 08:54:52,835 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 08:54:53,254 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 08:54:53,306 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-07 08:54:56,607 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-07 09:57:35,852 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
-[ 2026-03-07 09:57:35,867 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
-[ 2026-03-07 09:57:35,882 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
-[ 2026-03-07 09:57:35,897 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
-[ 2026-03-07 09:57:35,911 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
-[ 2026-03-07 09:57:35,926 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
-[ 2026-03-07 09:57:36,053 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
-[ 2026-03-07 09:57:36,073 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_December2025_Bundle.png")
-[ 2026-03-07 10:14:38,076 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-07 10:14:38,076 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-07 10:14:38,076 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-07 10:14:38,177 ] Disconnected from gameserver
-[ 2026-03-07 16:21:29,105 ] Using spritesheet cache size of 910
-[ 2026-03-07 16:21:29,302 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-03-07 16:21:29,308 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-03-07 16:21:39,401 ] Asset loading complete
-[ 2026-03-07 16:21:39,556 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-07 16:21:41,120 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x243a1248ef0), parent's thread is QThread(0x243983ea7c0), current thread is QSGRenderThread(0x243a020d890)
-[ 2026-03-07 16:22:29,495 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-07 16:22:29,495 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-07 16:22:29,495 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-07 16:22:29,636 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-07 16:22:29,636 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 16:22:29,660 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 16:22:30,121 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 16:22:30,174 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-07 16:22:33,496 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-07 16:28:03,695 ] Retrying to obtain clipboard.
-[ 2026-03-07 17:34:48,411 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-07 17:34:48,412 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-07 17:34:48,412 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-07 17:34:48,482 ] Disconnected from gameserver
-[ 2026-03-07 17:34:53,466 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-07 17:34:53,466 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-07 17:34:53,467 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-07 17:34:53,627 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-07 17:34:53,627 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 17:34:53,650 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 17:34:54,110 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 17:34:54,164 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-07 17:34:56,466 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-07 18:01:03,364 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-07 18:01:03,364 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-07 18:01:03,436 ] Disconnected from gameserver
-[ 2026-03-07 18:01:09,467 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-07 18:01:09,468 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-07 18:01:09,468 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-07 18:01:09,612 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Maga da Portelinha" )
-[ 2026-03-07 18:01:09,612 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 18:01:09,648 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 18:01:10,114 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-07 18:01:10,169 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-07 18:01:13,464 ] BattlEye: "Server computed GUID: d5cb6a17b303f6633f09b93c249efcd7"
-[ 2026-03-07 18:05:28,362 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-07 18:05:28,362 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-07 18:05:28,438 ] Disconnected from gameserver
-[ 2026-03-08 07:30:37,613 ] Using spritesheet cache size of 910
-[ 2026-03-08 07:30:37,715 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-03-08 07:30:37,721 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-03-08 07:30:44,618 ] Asset loading complete
-[ 2026-03-08 07:30:44,679 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-03-08 07:30:45,915 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x20abefc2f80), parent's thread is QThread(0x20ab6d29580), current thread is QSGRenderThread(0x20abee32230)
-[ 2026-03-08 07:31:20,311 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-08 07:31:20,311 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-08 07:31:20,311 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-08 07:31:20,449 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Maga da Portelinha" )
-[ 2026-03-08 07:31:20,449 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-08 07:31:20,471 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-08 07:31:20,927 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-08 07:31:20,987 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-08 07:31:24,307 ] BattlEye: "Server computed GUID: d5cb6a17b303f6633f09b93c249efcd7"
-[ 2026-03-08 07:56:49,272 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-08 07:56:49,273 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-08 07:56:49,346 ] Disconnected from gameserver
-[ 2026-03-08 07:56:54,528 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-08 07:56:54,528 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-08 07:56:54,528 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-08 07:56:54,661 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-08 07:56:54,661 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-08 07:56:54,684 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-08 07:56:55,135 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-08 07:56:55,192 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-08 07:56:58,526 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-08 08:06:30,270 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-08 08:06:30,270 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-08 08:06:30,340 ] Disconnected from gameserver
-[ 2026-03-08 08:07:01,466 ] Retrying to obtain clipboard.
-[ 2026-03-08 08:15:09,046 ] BattlEye: "Initialized (v1.249)"
-[ 2026-03-08 08:15:09,047 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-03-08 08:15:09,047 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-03-08 08:15:09,183 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Yiroshinho" )
-[ 2026-03-08 08:15:09,183 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-08 08:15:09,206 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-08 08:15:09,664 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"
-[ 2026-03-08 08:15:09,721 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra" established
-[ 2026-03-08 08:15:13,043 ] BattlEye: "Server computed GUID: 031a12b54f228dbf77284cb52878a4f5"
-[ 2026-03-08 08:25:22,222 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-08 08:25:22,222 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Gentebra"  was disconnected ( "The remote host closed the connection" )
-[ 2026-03-08 08:25:22,283 ] Disconnected from gameserver
-[ 2026-04-20 15:31:13,579 ] Using spritesheet cache size of 910
-[ 2026-04-20 15:31:13,818 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-04-20 15:31:13,888 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-04-20 15:31:16,001 ] Asset loading complete
-[ 2026-04-20 15:31:16,135 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-04-20 15:31:17,804 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x198aba86ee0), parent's thread is QThread(0x198fda961a0), current thread is QSGRenderThread(0x198858c76c0)
-[ 2026-04-20 15:32:02,144 ] Retrying to obtain clipboard.
-[ 2026-04-20 15:32:02,391 ] Retrying to obtain clipboard.
-[ 2026-04-20 15:32:02,928 ] Retrying to obtain clipboard.
-[ 2026-04-20 15:37:53,566 ] Using spritesheet cache size of 910
-[ 2026-04-20 15:37:53,631 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-04-20 15:37:53,639 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-04-20 15:38:02,794 ] Asset loading complete
-[ 2026-04-20 15:38:02,921 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-04-20 15:38:04,096 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x19ed02df680), parent's thread is QThread(0x19ec83feac0), current thread is QSGRenderThread(0x19ed03617f0)
-[ 2026-04-20 15:49:08,520 ] Using spritesheet cache size of 910
-[ 2026-04-20 15:49:08,571 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-04-20 15:49:08,580 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-04-20 15:49:09,904 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-04-20 15:49:10,489 ] Asset loading complete
-[ 2026-04-20 15:49:10,798 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x1573d124830), parent's thread is QThread(0x15733d96df0), current thread is QSGRenderThread(0x15761aed690)
-[ 2026-04-20 15:53:45,972 ] Using spritesheet cache size of 910
-[ 2026-04-20 15:53:46,017 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-04-20 15:53:46,025 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-04-20 15:53:47,123 ] Asset loading complete
-[ 2026-04-20 15:53:47,159 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-04-20 15:53:59,332 ] BattlEye: "Initialized (v1.249)"
-[ 2026-04-20 15:53:59,332 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2026-04-20 15:53:59,332 ] BattlEye: "Restarting client is necessary, update required"
-[ 2026-04-20 15:53:59,332 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-04-20 15:53:59,332 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-04-20 15:53:59,472 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2026-04-20 15:53:59,505 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 15:53:59,529 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 15:53:59,781 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204342 found"
-[ 2026-04-20 15:53:59,781 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204359 found"
-[ 2026-04-20 15:53:59,781 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204412 found"
-[ 2026-04-20 15:53:59,783 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216534 found"
-[ 2026-04-20 15:53:59,792 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216537 found"
-[ 2026-04-20 15:53:59,792 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204396 found"
-[ 2026-04-20 15:53:59,792 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204397 found"
-[ 2026-04-20 15:53:59,793 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204398 found"
-[ 2026-04-20 15:53:59,793 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204399 found"
-[ 2026-04-20 15:53:59,793 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204463 found"
-[ 2026-04-20 15:53:59,793 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216533 found"
-[ 2026-04-20 15:53:59,793 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216535 found"
-[ 2026-04-20 15:53:59,793 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216536 found"
-[ 2026-04-20 15:53:59,794 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216538 found"
-[ 2026-04-20 15:53:59,794 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204464 found"
-[ 2026-04-20 15:55:06,182 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 15:55:06,256 ] Disconnected from gameserver
-[ 2026-04-20 15:55:28,951 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Ninjas" )
-[ 2026-04-20 15:55:28,959 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 15:55:28,999 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 15:55:29,117 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204463 found"
-[ 2026-04-20 15:55:29,117 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216538 found"
-[ 2026-04-20 15:55:29,117 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216557 found"
-[ 2026-04-20 15:55:29,117 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204464 found"
-[ 2026-04-20 15:55:29,117 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204465 found"
-[ 2026-04-20 15:55:29,118 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204466 found"
-[ 2026-04-20 15:55:29,118 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204467 found"
-[ 2026-04-20 15:55:29,118 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204522 found"
-[ 2026-04-20 15:55:29,118 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204523 found"
-[ 2026-04-20 15:55:29,118 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204567 found"
-[ 2026-04-20 15:55:29,118 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204570 found"
-[ 2026-04-20 15:55:33,182 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 15:55:33,253 ] Disconnected from gameserver
-[ 2026-04-20 15:55:34,171 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Detonator" )
-[ 2026-04-20 15:55:34,177 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 15:55:34,197 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 15:55:34,358 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216513 found"
-[ 2026-04-20 15:55:34,358 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204411 found"
-[ 2026-04-20 15:55:34,359 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216515 found"
-[ 2026-04-20 15:55:34,367 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216516 found"
-[ 2026-04-20 15:55:34,367 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216517 found"
-[ 2026-04-20 15:55:34,367 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216518 found"
-[ 2026-04-20 15:55:34,368 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216519 found"
-[ 2026-04-20 15:55:34,368 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216520 found"
-[ 2026-04-20 15:55:34,368 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216521 found"
-[ 2026-04-20 15:55:34,368 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204481 found"
-[ 2026-04-20 15:55:34,368 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216563 found"
-[ 2026-04-20 15:56:54,331 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_PremiumTime.png")
-[ 2026-04-20 15:56:54,332 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Consumables.png")
-[ 2026-04-20 15:56:54,333 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Cosmetics.png")
-[ 2026-04-20 15:56:54,333 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_HouseTools.png")
-[ 2026-04-20 15:56:54,333 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Boosts.png")
-[ 2026-04-20 15:56:54,333 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Extras.png")
-[ 2026-04-20 15:56:54,453 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Tournament.png")
-[ 2026-04-20 15:56:54,457 ] StartDownload:  QUrl("http://127.0.0.1/images/store/64/Name_Change.png")
-[ 2026-04-20 15:57:11,757 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_PremiumTime.png")
-[ 2026-04-20 15:57:11,759 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Consumables.png")
-[ 2026-04-20 15:57:11,759 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Cosmetics.png")
-[ 2026-04-20 15:57:11,760 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_HouseTools.png")
-[ 2026-04-20 15:57:11,760 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Boosts.png")
-[ 2026-04-20 15:57:11,761 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Extras.png")
-[ 2026-04-20 15:57:11,776 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Tournament.png")
-[ 2026-04-20 15:57:11,777 ] StartDownload:  QUrl("http://127.0.0.1/images/store/64/Name_Change.png")
-[ 2026-04-20 15:58:15,061 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204302 found"
-[ 2026-04-20 16:10:21,392 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 16:10:21,476 ] Disconnected from gameserver
-[ 2026-04-20 16:15:43,768 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-04-20 16:16:05,227 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-04-20 16:16:15,273 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Detonator" )
-[ 2026-04-20 16:16:15,277 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:16:15,292 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:16:34,001 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 16:16:34,070 ] Disconnected from gameserver
-[ 2026-04-20 16:16:34,150 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-04-20 16:16:35,768 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Detonator" )
-[ 2026-04-20 16:16:35,773 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:16:35,778 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:19:51,460 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 16:19:51,560 ] Disconnected from gameserver
-[ 2026-04-20 16:19:51,663 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-04-20 16:19:52,780 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Detonator" )
-[ 2026-04-20 16:19:52,783 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:19:52,791 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:20:04,506 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 16:20:04,601 ] Disconnected from gameserver
-[ 2026-04-20 16:20:04,671 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-04-20 16:32:19,558 ] Using spritesheet cache size of 910
-[ 2026-04-20 16:32:19,613 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-04-20 16:32:19,623 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-04-20 16:32:20,570 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-04-20 16:32:21,150 ] Asset loading complete
-[ 2026-04-20 16:32:47,859 ] BattlEye: "Initialized (v1.249)"
-[ 2026-04-20 16:32:47,860 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2026-04-20 16:32:47,860 ] BattlEye: "Restarting client is necessary, update required"
-[ 2026-04-20 16:32:47,860 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-04-20 16:32:47,860 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-04-20 16:32:48,028 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Detonator" )
-[ 2026-04-20 16:32:48,051 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:32:48,062 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:33:58,041 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 16:33:58,111 ] Disconnected from gameserver
-[ 2026-04-20 16:34:09,372 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Detonator" )
-[ 2026-04-20 16:34:09,373 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:34:09,393 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:38:26,126 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 16:38:26,195 ] Disconnected from gameserver
-[ 2026-04-20 16:38:26,273 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-04-20 16:38:27,886 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Ninjas" )
-[ 2026-04-20 16:38:27,887 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:38:27,908 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:38:28,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204411 found"
-[ 2026-04-20 16:38:28,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216515 found"
-[ 2026-04-20 16:38:28,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216516 found"
-[ 2026-04-20 16:38:28,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216517 found"
-[ 2026-04-20 16:38:28,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216518 found"
-[ 2026-04-20 16:38:28,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216519 found"
-[ 2026-04-20 16:38:28,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216520 found"
-[ 2026-04-20 16:38:28,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216521 found"
-[ 2026-04-20 16:38:28,140 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204412 found"
-[ 2026-04-20 16:40:44,631 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 16:40:44,717 ] Disconnected from gameserver
-[ 2026-04-20 16:40:44,793 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-04-20 16:40:50,300 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Teste Monk" )
-[ 2026-04-20 16:40:50,302 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:40:50,322 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:40:50,486 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204463 found"
-[ 2026-04-20 16:40:50,486 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216557 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204465 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204466 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204467 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204464 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204523 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204522 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204568 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204570 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204567 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204577 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216618 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204569 found"
-[ 2026-04-20 16:40:50,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204571 found"
-[ 2026-04-20 16:41:43,310 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_PremiumTime.png")
-[ 2026-04-20 16:41:43,311 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Consumables.png")
-[ 2026-04-20 16:41:43,312 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Cosmetics.png")
-[ 2026-04-20 16:41:43,314 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_HouseTools.png")
-[ 2026-04-20 16:41:43,315 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Boosts.png")
-[ 2026-04-20 16:41:43,316 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Extras.png")
-[ 2026-04-20 16:41:43,400 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Tournament.png")
-[ 2026-04-20 16:41:43,402 ] StartDownload:  QUrl("http://127.0.0.1/images/store/64/Name_Change.png")
-[ 2026-04-20 16:41:49,774 ] StartDownload:  QUrl("http://127.0.0.1/images/store/64/Name_Change.png")
-[ 2026-04-20 16:41:49,794 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Mounts.png")
-[ 2026-04-20 16:41:49,795 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Outfits.png")
-[ 2026-04-20 16:41:49,798 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-04-20 16:41:49,798 ] QQuickPixmap: connectFinished() called when not loading.
-[ 2026-04-20 16:41:59,024 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_PremiumTime.png")
-[ 2026-04-20 16:41:59,026 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Consumables.png")
-[ 2026-04-20 16:41:59,027 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Cosmetics.png")
-[ 2026-04-20 16:41:59,029 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Mounts.png")
-[ 2026-04-20 16:41:59,030 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Outfits.png")
-[ 2026-04-20 16:41:59,031 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_HouseTools.png")
-[ 2026-04-20 16:41:59,135 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Boosts.png")
-[ 2026-04-20 16:41:59,137 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Extras.png")
-[ 2026-04-20 16:41:59,138 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Tournament.png")
-[ 2026-04-20 16:41:59,712 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_PremiumTime.png")
-[ 2026-04-20 16:41:59,713 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Consumables.png")
-[ 2026-04-20 16:41:59,714 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Cosmetics.png")
-[ 2026-04-20 16:41:59,715 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Mounts.png")
-[ 2026-04-20 16:41:59,716 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Outfits.png")
-[ 2026-04-20 16:41:59,717 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_HouseTools.png")
-[ 2026-04-20 16:41:59,743 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Boosts.png")
-[ 2026-04-20 16:41:59,744 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Extras.png")
-[ 2026-04-20 16:41:59,745 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Tournament.png")
-[ 2026-04-20 16:42:06,174 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_PremiumTime.png")
-[ 2026-04-20 16:42:06,177 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Consumables.png")
-[ 2026-04-20 16:42:06,178 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Cosmetics.png")
-[ 2026-04-20 16:42:06,180 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Mounts.png")
-[ 2026-04-20 16:42:06,181 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Outfits.png")
-[ 2026-04-20 16:42:06,182 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_HouseTools.png")
-[ 2026-04-20 16:42:06,200 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Boosts.png")
-[ 2026-04-20 16:42:06,202 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Extras.png")
-[ 2026-04-20 16:42:06,204 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Tournament.png")
-[ 2026-04-20 16:43:50,631 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 16:43:50,700 ] Disconnected from gameserver
-[ 2026-04-20 16:46:54,489 ] Using spritesheet cache size of 910
-[ 2026-04-20 16:46:54,546 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-04-20 16:46:54,554 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-04-20 16:46:56,062 ] Asset loading complete
-[ 2026-04-20 16:46:56,156 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-04-20 16:47:40,920 ] BattlEye: "Initialized (v1.249)"
-[ 2026-04-20 16:47:40,920 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2026-04-20 16:47:40,920 ] BattlEye: "Restarting client is necessary, update required"
-[ 2026-04-20 16:47:40,920 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-04-20 16:47:40,920 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-04-20 16:47:41,097 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Detonator" )
-[ 2026-04-20 16:47:41,123 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:47:41,144 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-04-20 16:47:41,571 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216557 found"
-[ 2026-04-20 16:47:41,571 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204464 found"
-[ 2026-04-20 16:47:41,571 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204465 found"
-[ 2026-04-20 16:47:41,571 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204466 found"
-[ 2026-04-20 16:47:41,571 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204467 found"
-[ 2026-04-20 16:47:41,572 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204522 found"
-[ 2026-04-20 16:47:41,572 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204523 found"
-[ 2026-04-20 16:47:41,572 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204567 found"
-[ 2026-04-20 16:47:41,572 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204568 found"
-[ 2026-04-20 16:47:41,572 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204569 found"
-[ 2026-04-20 16:47:41,572 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204577 found"
-[ 2026-04-20 16:47:41,572 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216618 found"
-[ 2026-04-20 16:47:41,573 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216619 found"
-[ 2026-04-20 16:47:41,573 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204570 found"
-[ 2026-04-20 16:47:41,573 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204571 found"
-[ 2026-04-20 16:51:33,332 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-04-20 16:51:33,416 ] Disconnected from gameserver
-[ 2026-06-09 16:48:05,995 ] Using spritesheet cache size of 910
-[ 2026-06-09 16:48:06,050 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-06-09 16:48:06,059 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-06-09 16:48:14,566 ] Asset loading complete
-[ 2026-06-09 16:48:14,647 ] StartDownload:  QUrl("")
-[ 2026-06-09 16:49:57,039 ] Using spritesheet cache size of 910
-[ 2026-06-09 16:49:57,085 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-06-09 16:49:57,094 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-06-09 16:49:58,170 ] Asset loading complete
-[ 2026-06-09 16:49:58,221 ] StartDownload:  QUrl("")
-[ 2026-06-09 16:51:54,010 ] Using spritesheet cache size of 910
-[ 2026-06-09 16:51:54,062 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-06-09 16:51:54,070 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-06-09 16:51:55,012 ] Asset loading complete
-[ 2026-06-09 16:51:55,035 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-06-09 16:51:56,030 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x188ffe68fe0), parent's thread is QThread(0x188f03c1b50), current thread is QSGRenderThread(0x188f7939760)
-[ 2026-06-09 16:52:13,487 ] BattlEye: "Initialized (v1.249)"
-[ 2026-06-09 16:52:13,487 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2026-06-09 16:52:13,487 ] BattlEye: "Restarting client is necessary, update required"
-[ 2026-06-09 16:52:13,487 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-06-09 16:52:13,487 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-06-09 16:52:13,608 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
-[ 2026-06-09 16:52:13,616 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 16:52:13,644 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 16:52:14,029 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
-[ 2026-06-09 16:52:14,030 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204888 found"
-[ 2026-06-09 16:52:33,464 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-06-09 16:52:33,525 ] Disconnected from gameserver
-[ 2026-06-09 16:53:13,060 ] Using spritesheet cache size of 910
-[ 2026-06-09 16:53:13,102 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-06-09 16:53:13,110 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-06-09 16:53:13,931 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-06-09 16:53:14,446 ] Asset loading complete
-[ 2026-06-09 16:53:14,820 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x218d6467a50), parent's thread is QThread(0x218ce6bdac0), current thread is QSGRenderThread(0x218f6108b10)
-[ 2026-06-09 16:54:53,442 ] Retrying to obtain clipboard.
-[ 2026-06-09 16:58:13,352 ] BattlEye: "Initialized (v1.249)"
-[ 2026-06-09 16:58:13,353 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2026-06-09 16:58:13,353 ] BattlEye: "Restarting client is necessary, update required"
-[ 2026-06-09 16:58:13,353 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-06-09 16:58:13,353 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-06-09 16:58:13,502 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
-[ 2026-06-09 16:58:13,533 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 16:58:13,540 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 16:58:13,862 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
-[ 2026-06-09 16:58:13,862 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204888 found"
-[ 2026-06-09 17:02:35,428 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-06-09 17:02:35,503 ] Disconnected from gameserver
-[ 2026-06-09 17:03:45,946 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
-[ 2026-06-09 17:03:45,951 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:03:50,002 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:03:50,286 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
-[ 2026-06-09 17:03:50,286 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204888 found"
-[ 2026-06-09 17:08:58,572 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_PremiumTime.png")
-[ 2026-06-09 17:08:58,583 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Consumables.png")
-[ 2026-06-09 17:08:58,593 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Cosmetics.png")
-[ 2026-06-09 17:08:58,602 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_HouseTools.png")
-[ 2026-06-09 17:08:58,612 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Boosts.png")
-[ 2026-06-09 17:08:58,620 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Extras.png")
-[ 2026-06-09 17:08:58,694 ] StartDownload:  QUrl("http://127.0.0.1/images/store/13/Category_Tournament.png")
-[ 2026-06-09 17:08:58,706 ] StartDownload:  QUrl("http://127.0.0.1/images/store/64/Name_Change.png")
-[ 2026-06-09 17:09:03,524 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-06-09 17:09:03,586 ] Disconnected from gameserver
-[ 2026-06-09 17:09:03,647 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-06-09 17:09:36,457 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-06-09 17:09:38,015 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
-[ 2026-06-09 17:09:38,023 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:09:38,046 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:09:38,279 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
-[ 2026-06-09 17:09:38,279 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204888 found"
-[ 2026-06-09 17:09:40,931 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-06-09 17:09:40,989 ] Disconnected from gameserver
-[ 2026-06-09 17:09:41,052 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-06-09 17:10:36,989 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-06-09 17:10:53,283 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
-[ 2026-06-09 17:10:53,284 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:10:53,307 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:10:53,623 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
-[ 2026-06-09 17:10:53,623 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204888 found"
-[ 2026-06-09 17:11:07,975 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-06-09 17:11:08,031 ] Disconnected from gameserver
-[ 2026-06-09 17:11:08,102 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-06-09 17:11:41,305 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-06-09 17:11:55,996 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
-[ 2026-06-09 17:11:55,999 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:11:56,014 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:11:56,221 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
-[ 2026-06-09 17:11:56,221 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204888 found"
-[ 2026-06-09 17:12:13,977 ] Didn't send news query with params (HighPotential: true Returner: true MaxKnownEditDate: 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
-[ 2026-06-09 17:13:18,124 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
-[ 2026-06-09 17:13:18,180 ] Disconnected from gameserver
-[ 2026-06-09 17:20:18,340 ] Using spritesheet cache size of 910
-[ 2026-06-09 17:20:18,387 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
-[ 2026-06-09 17:20:18,397 ] Switch used audio device to "Headphones (High Definition Audio Device)"
-[ 2026-06-09 17:20:19,345 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
-[ 2026-06-09 17:20:19,803 ] Asset loading complete
-[ 2026-06-09 17:20:20,080 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x16794863d10), parent's thread is QThread(0x1678c514e40), current thread is QSGRenderThread(0x16794c454d0)
-[ 2026-06-09 17:20:53,093 ] BattlEye: "Initialized (v1.249)"
-[ 2026-06-09 17:20:53,093 ] BattlEye: "Restarting client is necessary, service isn't running properly"
-[ 2026-06-09 17:20:53,093 ] BattlEye: "Restarting client is necessary, update required"
-[ 2026-06-09 17:20:53,093 ] BattlEye: "Config entry: GameID tibia"
-[ 2026-06-09 17:20:53,093 ] BattlEye: "Config entry: MasterPort 7171"
-[ 2026-06-09 17:20:53,207 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
-[ 2026-06-09 17:20:53,217 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:20:53,230 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
-[ 2026-06-09 17:20:53,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
-[ 2026-06-09 17:20:53,487 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204888 found"
+[ 2026-05-26 08:36:17,868 ] Using spritesheet cache size of 910
+[ 2026-05-26 08:36:18,024 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-05-26 08:36:18,099 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-05-26 08:36:19,997 ] Asset loading complete
+[ 2026-05-26 08:36:20,012 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-05-26 08:36:20,993 ] Client is started for first the time.
+[ 2026-05-26 08:36:21,326 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1c8b08d9870), parent's thread is QThread(0x1c882b84ff0), current thread is QSGRenderThread(0x1c88a06d590)
+[ 2026-05-26 08:38:21,069 ] BattlEye: "Initialized (v1.249)"
+[ 2026-05-26 08:38:21,070 ] BattlEye: "Config entry: GameID tibia"
+[ 2026-05-26 08:38:21,070 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2026-05-26 08:38:21,227 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Kalexus" )
+[ 2026-05-26 08:38:21,227 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-05-26 08:38:21,254 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-05-26 08:38:21,690 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
+[ 2026-05-26 08:38:21,898 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
+[ 2026-05-26 08:38:25,073 ] BattlEye: "Server computed GUID: b735fbc87a301dbc2eab3d22914e004d"
+[ 2026-05-26 08:53:17,098 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
+[ 2026-05-26 08:53:17,098 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
+[ 2026-05-26 08:53:17,164 ] Disconnected from gameserver
+[ 2026-05-30 15:06:28,988 ] Using spritesheet cache size of 910
+[ 2026-05-30 15:06:29,100 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-05-30 15:06:29,170 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-05-30 15:06:30,758 ] Asset loading complete
+[ 2026-05-30 15:06:30,779 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-05-30 15:06:31,981 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x181c91997a0), parent's thread is QThread(0x181a1579320), current thread is QSGRenderThread(0x181a9718890)
+[ 2026-05-30 15:06:44,503 ] Retrying to obtain clipboard.
+[ 2026-05-30 15:07:30,401 ] BattlEye: "Initialized (v1.249)"
+[ 2026-05-30 15:07:30,401 ] BattlEye: "Config entry: GameID tibia"
+[ 2026-05-30 15:07:30,401 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2026-05-30 15:07:30,528 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Anninha Paladina" )
+[ 2026-05-30 15:07:30,528 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-05-30 15:07:30,551 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-05-30 15:07:31,008 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
+[ 2026-05-30 15:07:31,077 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
+[ 2026-05-30 15:07:33,399 ] BattlEye: "Server computed GUID: 5fd02760bd910d2e2c911d7ea42bbcb3"
+[ 2026-05-30 15:21:54,952 ] Retrying to obtain clipboard.
+[ 2026-05-30 15:28:17,018 ] Connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
+[ 2026-05-30 15:28:17,018 ] Connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"  was disconnected ( "The remote host closed the connection" )
+[ 2026-05-30 15:28:17,085 ] Disconnected from gameserver
+[ 2026-05-30 15:29:11,634 ] BattlEye: "Initialized (v1.249)"
+[ 2026-05-30 15:29:11,634 ] BattlEye: "Config entry: GameID tibia"
+[ 2026-05-30 15:29:11,634 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2026-05-30 15:29:11,804 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Anninha Paladina" )
+[ 2026-05-30 15:29:11,804 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-05-30 15:29:11,830 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-05-30 15:29:12,286 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
+[ 2026-05-30 15:29:12,512 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
+[ 2026-05-30 15:29:15,635 ] BattlEye: "Server computed GUID: 5fd02760bd910d2e2c911d7ea42bbcb3"
+[ 2026-06-03 20:11:45,743 ] Using spritesheet cache size of 910
+[ 2026-06-03 20:11:45,913 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-03 20:11:45,981 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-03 20:11:55,546 ] Asset loading complete
+[ 2026-06-03 20:11:55,610 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-03 20:11:57,191 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x204de82a4e0), parent's thread is QThread(0x204d5ae3d70), current thread is QSGRenderThread(0x204dced73b0)
+[ 2026-06-03 20:13:38,382 ] BattlEye: "Initialized (v1.249)"
+[ 2026-06-03 20:13:38,382 ] BattlEye: "Config entry: GameID tibia"
+[ 2026-06-03 20:13:38,382 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2026-06-03 20:13:38,518 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Kalexus" )
+[ 2026-06-03 20:13:38,518 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-06-03 20:13:38,543 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-06-03 20:13:38,983 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
+[ 2026-06-03 20:13:39,045 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
+[ 2026-06-03 20:13:41,385 ] BattlEye: "Server computed GUID: b735fbc87a301dbc2eab3d22914e004d"
+[ 2026-06-03 20:15:40,894 ] Retrying to obtain clipboard.
+[ 2026-06-09 16:56:22,104 ] Using spritesheet cache size of 910
+[ 2026-06-09 16:56:22,238 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-09 16:56:22,311 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-09 16:56:30,925 ] Asset loading complete
+[ 2026-06-09 16:56:31,016 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-09 16:56:32,447 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x20f29398310), parent's thread is QThread(0x20f21eeafc0), current thread is QSGRenderThread(0x20f2a1d73f0)
+[ 2026-06-09 16:57:23,203 ] BattlEye: "Initialized (v1.249)"
+[ 2026-06-09 16:57:23,204 ] BattlEye: "Config entry: GameID tibia"
+[ 2026-06-09 16:57:23,204 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2026-06-09 16:57:23,322 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Kalexus" )
+[ 2026-06-09 16:57:23,322 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-06-09 16:57:23,343 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Issobra"
+[ 2026-06-09 16:57:23,839 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra"
+[ 2026-06-09 16:57:24,430 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Issobra" established
+[ 2026-06-09 16:57:27,196 ] BattlEye: "Server computed GUID: b735fbc87a301dbc2eab3d22914e004d"
+[ 2026-06-09 16:59:18,246 ] Retrying to obtain clipboard.
+[ 2026-06-09 16:59:33,421 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_PremiumTime.png")
+[ 2026-06-09 16:59:33,424 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Consumables.png")
+[ 2026-06-09 16:59:33,426 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Bundles.png")
+[ 2026-06-09 16:59:33,426 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Cosmetics.png")
+[ 2026-06-09 16:59:33,427 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_HouseTools.png")
+[ 2026-06-09 16:59:33,428 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Boosts.png")
+[ 2026-06-09 16:59:33,485 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-06-09 16:59:33,485 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2026-06-09 16:59:33,638 ] StartDownload:  QUrl("https://static.tibia.com/images/store/13/Category_Extras.png")
+[ 2026-06-09 16:59:33,642 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime30.png")
+[ 2026-06-09 16:59:33,646 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime90.png")
+[ 2026-06-09 16:59:33,652 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime180.png")
+[ 2026-06-09 16:59:33,660 ] StartDownload:  QUrl("https://static.tibia.com/images/store/64/Product_PremiumTime360.png")
+[ 2026-06-22 08:42:14,607 ] Using spritesheet cache size of 910
+[ 2026-06-22 08:42:14,686 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 08:42:14,701 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 08:42:22,007 ] Asset loading complete
+[ 2026-06-22 08:42:22,259 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 08:42:23,390 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x237430a6240), parent's thread is QThread(0x237221d53a0), current thread is QSGRenderThread(0x2372b194680)
+[ 2026-06-22 08:42:34,057 ] Using spritesheet cache size of 910
+[ 2026-06-22 08:42:34,110 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 08:42:34,119 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 08:42:35,011 ] Asset loading complete
+[ 2026-06-22 08:42:35,296 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 08:42:35,965 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x23161327690), parent's thread is QThread(0x23139876660), current thread is QSGRenderThread(0x23148bae410)
+[ 2026-06-22 09:46:08,815 ] Using spritesheet cache size of 910
+[ 2026-06-22 09:46:08,886 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 09:46:08,893 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 09:46:10,348 ] Asset loading complete
+[ 2026-06-22 09:46:10,406 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 09:46:11,050 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x27199196fe0), parent's thread is QThread(0x27191327b10), current thread is QSGRenderThread(0x2719953a9c0)
+[ 2026-06-22 09:46:29,535 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 09:46:29,538 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:46:29,552 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:46:29,724 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
+[ 2026-06-22 09:46:29,724 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216924 found"
+[ 2026-06-22 09:46:29,724 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216925 found"
+[ 2026-06-22 09:46:29,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216926 found"
+[ 2026-06-22 09:46:29,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342194019 found"
+[ 2026-06-22 09:46:29,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204819 found"
+[ 2026-06-22 09:46:29,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216969 found"
+[ 2026-06-22 09:46:29,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216970 found"
+[ 2026-06-22 09:46:29,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216971 found"
+[ 2026-06-22 09:46:29,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216968 found"
+[ 2026-06-22 09:46:29,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216972 found"
+[ 2026-06-22 09:46:29,725 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216973 found"
+[ 2026-06-22 09:48:08,865 ] Using spritesheet cache size of 910
+[ 2026-06-22 09:48:08,907 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 09:48:08,915 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 09:48:09,757 ] Asset loading complete
+[ 2026-06-22 09:48:09,816 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 09:48:10,388 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x191e8e3fe30), parent's thread is QThread(0x191c8063bc0), current thread is QSGRenderThread(0x191cffd6090)
+[ 2026-06-22 09:49:02,916 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 09:49:02,920 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:49:07,020 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-06-22 09:49:08,020 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:49:12,115 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-06-22 09:49:12,122 ] Disconnected from gameserver
+[ 2026-06-22 09:49:13,340 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 09:49:13,342 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:49:14,362 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:49:14,506 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
+[ 2026-06-22 09:49:14,506 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216924 found"
+[ 2026-06-22 09:49:14,506 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216925 found"
+[ 2026-06-22 09:49:14,506 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216926 found"
+[ 2026-06-22 09:49:14,506 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342194019 found"
+[ 2026-06-22 09:49:14,506 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204819 found"
+[ 2026-06-22 09:49:14,506 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216969 found"
+[ 2026-06-22 09:49:14,506 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216970 found"
+[ 2026-06-22 09:49:14,507 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216971 found"
+[ 2026-06-22 09:49:14,507 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216968 found"
+[ 2026-06-22 09:49:14,507 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216972 found"
+[ 2026-06-22 09:49:14,507 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216973 found"
+[ 2026-06-22 09:50:04,916 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-06-22 09:50:04,959 ] Disconnected from gameserver
+[ 2026-06-22 09:50:06,716 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tryller" )
+[ 2026-06-22 09:50:06,718 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:50:06,732 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:50:06,845 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216962 found"
+[ 2026-06-22 09:50:06,845 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204871 found"
+[ 2026-06-22 09:50:06,845 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204872 found"
+[ 2026-06-22 09:50:06,845 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204873 found"
+[ 2026-06-22 09:50:06,845 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204874 found"
+[ 2026-06-22 09:50:06,845 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204929 found"
+[ 2026-06-22 09:50:06,845 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204930 found"
+[ 2026-06-22 09:50:06,846 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204974 found"
+[ 2026-06-22 09:50:06,846 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204975 found"
+[ 2026-06-22 09:50:06,846 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204976 found"
+[ 2026-06-22 09:50:06,847 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204984 found"
+[ 2026-06-22 09:50:06,847 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342217023 found"
+[ 2026-06-22 09:50:06,847 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342217024 found"
+[ 2026-06-22 09:50:06,847 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204977 found"
+[ 2026-06-22 09:50:06,847 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204978 found"
+[ 2026-06-22 09:55:34,086 ] Using spritesheet cache size of 910
+[ 2026-06-22 09:55:34,129 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 09:55:34,138 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 09:55:34,901 ] Asset loading complete
+[ 2026-06-22 09:55:34,906 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 09:55:35,577 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x224294ee250), parent's thread is QThread(0x224019ea690), current thread is QSGRenderThread(0x22409745050)
+[ 2026-06-22 09:55:41,165 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 09:55:41,169 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:55:41,184 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 09:55:41,379 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204818 found"
+[ 2026-06-22 09:55:41,379 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216924 found"
+[ 2026-06-22 09:55:41,379 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216925 found"
+[ 2026-06-22 09:55:41,379 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216926 found"
+[ 2026-06-22 09:55:41,379 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342194019 found"
+[ 2026-06-22 09:55:41,379 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204819 found"
+[ 2026-06-22 09:55:41,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216969 found"
+[ 2026-06-22 09:55:41,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216971 found"
+[ 2026-06-22 09:55:41,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216970 found"
+[ 2026-06-22 09:55:41,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216973 found"
+[ 2026-06-22 09:55:41,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216972 found"
+[ 2026-06-22 09:55:41,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216968 found"
+[ 2026-06-22 10:21:21,836 ] Using spritesheet cache size of 910
+[ 2026-06-22 10:21:21,898 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 10:21:21,907 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 10:21:30,085 ] Asset loading complete
+[ 2026-06-22 10:21:30,192 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 10:21:31,430 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x25662094ab0), parent's thread is QThread(0x256410c24c0), current thread is QSGRenderThread(0x25661f23f70)
+[ 2026-06-22 10:21:38,632 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 10:21:38,638 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 10:21:38,656 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 11:06:27,839 ] Using spritesheet cache size of 910
+[ 2026-06-22 11:06:27,889 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 11:06:27,897 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 11:06:34,482 ] Asset loading complete
+[ 2026-06-22 11:06:34,665 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 11:06:35,582 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x23dfe9c7a40), parent's thread is QThread(0x23de593b800), current thread is QSGRenderThread(0x23df6a6f430)
+[ 2026-06-22 11:19:07,217 ] Using spritesheet cache size of 910
+[ 2026-06-22 11:19:07,265 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 11:19:07,274 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 11:19:08,258 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 11:19:08,976 ] Asset loading complete
+[ 2026-06-22 11:19:09,057 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x17caf643bf0), parent's thread is QThread(0x17ca75aea20), current thread is QSGRenderThread(0x17cb03025c0)
+[ 2026-06-22 11:21:25,730 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 11:21:25,735 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 11:21:25,749 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 13:48:32,530 ] Using spritesheet cache size of 910
+[ 2026-06-22 13:48:32,577 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 13:48:32,586 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 13:48:39,554 ] Asset loading complete
+[ 2026-06-22 13:48:39,810 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 13:48:41,078 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1a9731cdff0), parent's thread is QThread(0x1a94b617e50), current thread is QSGRenderThread(0x1a95b6c88e0)
+[ 2026-06-22 13:48:45,581 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 13:48:45,583 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 13:48:45,604 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 13:51:22,995 ] Using spritesheet cache size of 910
+[ 2026-06-22 13:51:23,045 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 13:51:23,055 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 13:51:23,960 ] Asset loading complete
+[ 2026-06-22 13:51:24,008 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 13:51:24,759 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x21ae9fb9090), parent's thread is QThread(0x21ac85871c0), current thread is QSGRenderThread(0x21ad6842730)
+[ 2026-06-22 13:51:31,606 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 13:51:31,610 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 13:51:31,627 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 13:51:31,717 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-06-22 13:51:31,729 ] Disconnected from gameserver
+[ 2026-06-22 14:02:30,809 ] Using spritesheet cache size of 910
+[ 2026-06-22 14:02:30,856 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 14:02:30,866 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 14:02:31,859 ] Asset loading complete
+[ 2026-06-22 14:02:31,950 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 14:02:32,642 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x21646443750), parent's thread is QThread(0x2161e94e5c0), current thread is QSGRenderThread(0x21627322230)
+[ 2026-06-22 14:02:41,187 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 14:02:41,192 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 14:02:41,207 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 14:05:00,263 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-06-22 14:05:00,323 ] Disconnected from gameserver
+[ 2026-06-22 14:06:15,934 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 14:06:15,938 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 14:06:15,953 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 14:21:19,933 ] Retrying to obtain clipboard.
+[ 2026-06-22 14:55:22,587 ] Retrying to obtain clipboard.
+[ 2026-06-22 14:57:04,278 ] Retrying to obtain clipboard.
+[ 2026-06-22 14:57:04,330 ] Retrying to obtain clipboard.
+[ 2026-06-22 14:57:04,380 ] Unable to obtain clipboard.
+[ 2026-06-22 15:03:32,112 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-06-22 15:03:32,125 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 15:03:32,202 ] Disconnected from gameserver
+[ 2026-06-22 15:06:48,368 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 15:06:48,370 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:06:52,463 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-06-22 15:06:53,473 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:06:57,563 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-06-22 15:06:57,573 ] Disconnected from gameserver
+[ 2026-06-22 15:06:58,869 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 15:06:58,872 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:07:02,963 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-06-22 15:07:03,963 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:07:08,062 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-06-22 15:07:08,067 ] Disconnected from gameserver
+[ 2026-06-22 15:07:09,303 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 15:07:09,304 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:07:13,412 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-06-22 15:07:14,412 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:07:18,398 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:11:37,662 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-06-22 15:11:37,730 ] Disconnected from gameserver
+[ 2026-06-22 15:43:12,180 ] Using spritesheet cache size of 910
+[ 2026-06-22 15:43:12,233 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 15:43:12,243 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 15:43:13,408 ] Asset loading complete
+[ 2026-06-22 15:43:13,508 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 15:43:14,274 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2927e890430), parent's thread is QThread(0x29256c466f0), current thread is QSGRenderThread(0x2927e72fed0)
+[ 2026-06-22 15:44:03,887 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 15:44:03,889 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:44:03,912 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:44:04,177 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204870 found"
+[ 2026-06-22 15:44:04,178 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216943 found"
+[ 2026-06-22 15:44:04,178 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216962 found"
+[ 2026-06-22 15:44:04,178 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204871 found"
+[ 2026-06-22 15:44:04,178 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204872 found"
+[ 2026-06-22 15:44:04,178 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204873 found"
+[ 2026-06-22 15:44:04,178 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204874 found"
+[ 2026-06-22 15:44:04,178 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204929 found"
+[ 2026-06-22 15:44:04,179 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204930 found"
+[ 2026-06-22 15:44:04,179 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204974 found"
+[ 2026-06-22 15:44:04,179 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204977 found"
+[ 2026-06-22 15:46:23,060 ] Using spritesheet cache size of 910
+[ 2026-06-22 15:46:23,110 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 15:46:23,119 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 15:46:23,928 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 15:46:24,475 ] Asset loading complete
+[ 2026-06-22 15:46:24,864 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x24c052a2e60), parent's thread is QThread(0x24c7d72b4c0), current thread is QSGRenderThread(0x24c05c9b630)
+[ 2026-06-22 15:46:31,733 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 15:46:31,738 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:46:31,759 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204870 found"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216943 found"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216962 found"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204871 found"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204872 found"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204874 found"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204929 found"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204930 found"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204873 found"
+[ 2026-06-22 15:46:31,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204974 found"
+[ 2026-06-22 15:46:31,961 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204977 found"
+[ 2026-06-22 15:46:40,926 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-06-22 15:46:40,975 ] Disconnected from gameserver
+[ 2026-06-22 15:58:43,166 ] Using spritesheet cache size of 910
+[ 2026-06-22 15:58:43,215 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 15:58:43,223 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 15:58:44,021 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 15:58:44,539 ] Asset loading complete
+[ 2026-06-22 15:58:44,895 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1e6dac384d0), parent's thread is QThread(0x1e6b9c14940), current thread is QSGRenderThread(0x1e6c20a9cb0)
+[ 2026-06-22 15:58:48,300 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 15:58:48,303 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:58:48,322 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 15:58:48,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204870 found"
+[ 2026-06-22 15:58:48,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216943 found"
+[ 2026-06-22 15:58:48,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216962 found"
+[ 2026-06-22 15:58:48,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204871 found"
+[ 2026-06-22 15:58:48,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204872 found"
+[ 2026-06-22 15:58:48,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204874 found"
+[ 2026-06-22 15:58:48,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204929 found"
+[ 2026-06-22 15:58:48,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204930 found"
+[ 2026-06-22 15:58:48,526 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204873 found"
+[ 2026-06-22 15:58:48,527 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204974 found"
+[ 2026-06-22 15:58:48,527 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204977 found"
+[ 2026-06-22 16:00:46,769 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-06-22 16:00:46,828 ] Disconnected from gameserver
+[ 2026-06-22 16:02:40,569 ] Using spritesheet cache size of 910
+[ 2026-06-22 16:02:40,620 ] Sound engine initialized with default sound device "Headphones (High Definition Audio Device)"
+[ 2026-06-22 16:02:40,631 ] Switch used audio device to "Headphones (High Definition Audio Device)"
+[ 2026-06-22 16:02:41,528 ] Asset loading complete
+[ 2026-06-22 16:02:41,663 ] StartDownload:  QUrl("https://static.tibia.com/hints.json")
+[ 2026-06-22 16:02:42,301 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x28c65663cb0), parent's thread is QThread(0x28c5e09c250), current thread is QSGRenderThread(0x28c66826040)
+[ 2026-06-22 16:03:04,840 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 16:03:04,846 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 16:03:08,980 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-06-22 16:03:10,039 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 16:03:14,129 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "Connection refused" )
+[ 2026-06-22 16:03:14,140 ] Disconnected from gameserver
+[ 2026-06-22 16:03:15,353 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rullys" )
+[ 2026-06-22 16:03:15,354 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 16:03:15,363 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Crystal"
+[ 2026-06-22 16:03:15,590 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204870 found"
+[ 2026-06-22 16:03:15,590 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216943 found"
+[ 2026-06-22 16:03:15,590 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216962 found"
+[ 2026-06-22 16:03:15,590 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204871 found"
+[ 2026-06-22 16:03:15,590 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204872 found"
+[ 2026-06-22 16:03:15,590 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204873 found"
+[ 2026-06-22 16:03:15,591 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204874 found"
+[ 2026-06-22 16:03:15,591 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204929 found"
+[ 2026-06-22 16:03:15,592 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204930 found"
+[ 2026-06-22 16:03:15,592 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204974 found"
+[ 2026-06-22 16:03:15,592 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342204977 found"
+[ 2026-06-22 16:03:40,181 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Crystal"  was disconnected ( "The remote host closed the connection" )
+[ 2026-06-22 16:03:40,252 ] Disconnected from gameserver
