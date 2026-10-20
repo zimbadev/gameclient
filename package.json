@@ -1,5 +1,5 @@
 {
-  "version": "15.25.3a4a52",
+  "version": "15.30.004fb1",
   "files": [
     {
       "url": "3rdpartylicences/apache-v2.txt.lzma",
@@ -60,18 +60,18 @@
     {
       "url": "bin/client.en.qm.lzma",
       "localfile": "bin/client.en.qm",
-      "packedhash": "694b443d12b8d4429bd01444b68712f4505204408664c93a7045dbe48c56dd70",
-      "packedsize": 133578,
-      "unpackedhash": "18ee433fbc139999bb2682660c5556fa24535aada7e17ee96b3ef037462c17a2",
-      "unpackedsize": 725716
+      "packedhash": "80161e27d2f6fa764c42398242ff66732236e989413d7dd4ca02830a85f4651c",
+      "packedsize": 135710,
+      "unpackedhash": "f290f6f1897548d958de6ee08a993e45ce103956072dcd033ecf5ff3bd93639e",
+      "unpackedsize": 739170
     },
     {
       "url": "bin/client.exe.lzma",
       "localfile": "bin/client.exe",
-      "packedhash": "c7dfd19a48b7fcf1287801d2a44a394e3a42838f0057ad3bc624926be6b35fa7",
-      "packedsize": 7643336,
-      "unpackedhash": "2f20784c8638f6e30c1659786d2195b80c8c56a2f5a3f91688c1649facce07cb",
-      "unpackedsize": 38285768
+      "packedhash": "4991fd5327832bde9157a2194a4cbd192ce157387a374d6a22c8bb074ef50595",
+      "packedsize": 7769089,
+      "unpackedhash": "281930d47ce3806a734a3ad3cee34b6697a199ec71b5f2d75d4d805f8ea548bc",
+      "unpackedsize": 39201744
     },
     {
       "url": "bin/client_launcher.exe.lzma",
@@ -101,10 +101,10 @@
     {
       "url": "bin/graphics_resources.rcc.lzma",
       "localfile": "bin/graphics_resources.rcc",
-      "packedhash": "574e215d7e1a2e6dcbde77a2283e9878bba4d29af97adffb92a58358d699b00d",
-      "packedsize": 6682345,
-      "unpackedhash": "ec34d07e1a0ad91c9dd4837ae87abf85b68034293b7e1a37da2b9b9934066d53",
-      "unpackedsize": 6869932
+      "packedhash": "bcee6c0724ed9e83e3aee1a18d6d3b810e28d5a13a1a39e5f5b2c40fb141774b",
+      "packedsize": 6536929,
+      "unpackedhash": "7586a61662530ffa70568b80d0db2979d834e6d61b06126f3dd354d27b69173d",
+      "unpackedsize": 6749160
     },
     {
       "url": "bin/qt.conf.lzma",
@@ -11517,10 +11517,10 @@
     {
       "url": "bin/QtQuick/LegacyControls/Qt5LegacyControls.dll.lzma",
       "localfile": "bin/QtQuick/LegacyControls/Qt5LegacyControls.dll",
-      "packedhash": "4448a6e8af5f16f8047649a81fb28475da9b1639fc4293012a98927b539edadf",
-      "packedsize": 181792,
-      "unpackedhash": "4f4f52354216ef9a276a674be3a37ba655f8f47081071a4eb867bb4e7219d3d7",
-      "unpackedsize": 697800
+      "packedhash": "ca31495c53c3af381d0f56db1a96d5d28f998886a1567ffc718ffaac971f0908",
+      "packedsize": 181636,
+      "unpackedhash": "e808230200e9adb5bcf74e8673e72d58fa007b421c43cb8b1bba5a8d1b4d6235",
+      "unpackedsize": 697808
     },
     {
       "url": "bin/resources/icudtl.dat.lzma",

@@ -871,7 +871,7 @@
             "headline": "Manage Containers",
             "id": 95,
             "isread": true,
-            "message": "<center>How to quickly manage and arrange the contents of your backpacks:<br>&nbsp;<img src=\"https://static.tibia.com/images/news/line1px.png\" alt=\"\" width=\"550\" height=\"1\">\n<p><span style=\"text-decoration: underline;\">Manage Containers</span></p>\n<table cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"vertical-align: middle;\">\n<p><img src=\"https://static.tibia.com/images/news/manage_cont_comp24_goldenborder.png\" width=\"349\" height=\"223\"></p>\n</td>\n<td style=\"vertical-align: middle;\">\n<p>Premium players can use the <em>Manage Containers</em> dialog to assign categories to containers.<br>Items obtained from looting, NPCs, the depot and the stash&nbsp;are then automatically placed in their assigned containers.</p>\n<p>You can open the dialog via the context menu of a container, the Cyclopedia, or a configurable hotkey.</p>\n<p>Under \"Loot\", you manage the containers for items looted from creatures.&nbsp;<br>Under \"Obtain\", you manage containers for items obtained through other means.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table style=\"height: 102px; margin-left: auto; margin-right: auto; width: 648px;\" cellpadding=\"5\">\n<tbody>\n<tr style=\"height: 65px;\">\n<td style=\"width: 411px; height: 65px; vertical-align: middle;\">\n<p>To assign a categoy, press the crosshairs button next to it and click on the container of your choice. Done!</p>\n<p>From now on, items of this category will be automatically put into that container.</p>\n<p>To remove a category from a container, simply press the X button next to the category in the&nbsp;<em>Manage Containers</em> dialog.</p>\n<p>You can assign multiple categories to the same container.</p>\n<p>If you hover over the small bag icon in the lower right corner of a container that has at least one category assigned to it, these categories will be displayed.</p>\n</td>\n<td style=\"width: 205px; height: 65px; vertical-align: middle;\">\n<p><img src=\"https://static.tibia.com/images/news/quicklooting13.png\" width=\"341\" height=\"306\"></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table style=\"height: 102px; margin-left: auto; margin-right: auto; width: 644px;\" cellpadding=\"5\">\n<tbody>\n<tr style=\"height: 65px;\">\n<td style=\"width: 334.766px; height: 65px; vertical-align: middle;\"><img src=\"https://static.tibia.com/images/news/manage_cont_comp24_b_goldenborder.png\" width=\"278\" height=\"124\"></td>\n<td style=\"width: 286.234px; height: 65px; vertical-align: middle;\">\n<p>Items of categories you have not assigned to a specific container, will be placed into the&nbsp;<em>Unassigned</em> container for looted and obtained items.</p>\n<p>Per default, this is your main container, the one you have equipped in the body slot. You can also select different containers via the Manage Containers dialog.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"text-decoration: underline;\">Quick Sort Container</span></p>\n<table style=\"height: 102px; margin-left: auto; margin-right: auto; width: 644px;\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"vertical-align: middle; width: 335px;\">\n<p>You can sort the contents of your backpacks according to various criteria by opening the respective menu.</p>\n<p>Sorting options include sorting ascending/descending by name, weight, expiry and stack size.</p>\n<p>Additionally, you can sort nested containers, prioritise backpacks to be sorted first within the inventory, and you can switch on the manual sort mode to be able to drag and drop items to any location within the backpack.</p>\n</td>\n<td style=\"vertical-align: middle; width: 287px;\">\n<p><img src=\"https://static.tibia.com/images/news/menu_qscont_goldenborder.png\"></p>\n</td>\n</tr>\n</tbody>\n</table>\n</center>",
+            "message": "<center>How to quickly manage and arrange the contents of your backpacks:<br>&nbsp;<img src=\"https://static.tibia.com/images/news/line1px.png\" alt=\"\" width=\"550\" height=\"1\">\n<p><span style=\"text-decoration: underline;\">Manage Containers</span></p>\n<table cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"vertical-align: middle;\">\n<p><img src=\"https://static.tibia.com/images/news/manage_cont_comp24_goldenborder.png\" width=\"349\" height=\"223\"></p>\n</td>\n<td style=\"vertical-align: middle;\">\n<p>Premium players can use the <em>Manage Containers</em> dialog to assign categories to containers.<br>Items obtained from looting, NPCs, the depot and the stash&nbsp;are then automatically placed in their assigned containers.</p>\n<p>You can open the dialog via the context menu of a container, the Cyclopedia, or a configurable hotkey.</p>\n<p>Under \"Loot\", you manage the containers for items looted from creatures.&nbsp;<br>Under \"Obtain\", you manage containers for items obtained through other means.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table style=\"height: 102px; margin-left: auto; margin-right: auto; width: 648px;\" cellpadding=\"5\">\n<tbody>\n<tr style=\"height: 65px;\">\n<td style=\"width: 411px; height: 65px; vertical-align: middle;\">\n<p>To assign a category, press the crosshairs button next to it and click on the container of your choice. Done!</p>\n<p>From now on, items of this category will be automatically put into that container.</p>\n<p>To remove a category from a container, simply press the X button next to the category in the&nbsp;<em>Manage Containers</em> dialog.</p>\n<p>You can assign multiple categories to the same container.</p>\n<p>If you hover over the small bag icon in the lower right corner of a container that has at least one category assigned to it, these categories will be displayed.</p>\n</td>\n<td style=\"width: 205px; height: 65px; vertical-align: middle;\">\n<p><img src=\"https://static.tibia.com/images/news/quicklooting13.png\" width=\"341\" height=\"306\"></p>\n</td>\n</tr>\n</tbody>\n</table>\n<table style=\"height: 102px; margin-left: auto; margin-right: auto; width: 644px;\" cellpadding=\"5\">\n<tbody>\n<tr style=\"height: 65px;\">\n<td style=\"width: 334.766px; height: 65px; vertical-align: middle;\"><img src=\"https://static.tibia.com/images/news/manage_cont_comp24_b_goldenborder.png\" width=\"278\" height=\"124\"></td>\n<td style=\"width: 286.234px; height: 65px; vertical-align: middle;\">\n<p>Items of categories you have not assigned to a specific container, will be placed into the&nbsp;<em>Unassigned</em> container for looted and obtained items.</p>\n<p>Per default, this is your main container, the one you have equipped in the body slot. You can also select different containers via the Manage Containers dialog.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"text-decoration: underline;\">Quick Sort Container</span></p>\n<table style=\"height: 102px; margin-left: auto; margin-right: auto; width: 644px;\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"vertical-align: middle; width: 335px;\">\n<p>You can sort the contents of your backpacks according to various criteria by opening the respective menu.</p>\n<p>Sorting options include sorting ascending/descending by name, weight, expiry and stack size.</p>\n<p>Additionally, you can sort nested containers, prioritise backpacks to be sorted first within the inventory, and you can switch on the manual sort mode to be able to drag and drop items to any location within the backpack.</p>\n</td>\n<td style=\"vertical-align: middle; width: 287px;\">\n<p><img src=\"https://static.tibia.com/images/news/menu_qscont_goldenborder.png\"></p>\n</td>\n</tr>\n</tbody>\n</table>\n</center>",
             "publishdate": 1719817200,
             "type": "REGULAR",
             "unlocklevel": 0
@@ -918,7 +918,7 @@
             "groupheaderid": 0,
             "headline": "Gameplay: Advanced",
             "id": 99,
-            "isread": true,
+            "isread": false,
             "message": "",
             "publishdate": 1727165313,
             "type": "GROUP HEADER",
@@ -930,7 +930,7 @@
             "groupheaderid": 0,
             "headline": "Gameplay: Expert",
             "id": 100,
-            "isread": true,
+            "isread": false,
             "message": "",
             "publishdate": 1727165313,
             "type": "GROUP HEADER",
@@ -942,7 +942,7 @@
             "groupheaderid": 0,
             "headline": "Resource Management",
             "id": 101,
-            "isread": true,
+            "isread": false,
             "message": "",
             "publishdate": 1727165313,
             "type": "GROUP HEADER",
@@ -954,7 +954,7 @@
             "groupheaderid": 0,
             "headline": "Miscellaneous",
             "id": 102,
-            "isread": true,
+            "isread": false,
             "message": "",
             "publishdate": 1727165313,
             "type": "GROUP HEADER",
@@ -1118,7 +1118,7 @@
         }
     ],
     "isreturner": true,
-    "lastupdatetimestamp": 1782155020,
+    "lastupdatetimestamp": 1791889093,
     "maxeditdate": 0,
     "showrewardnews": true
 }

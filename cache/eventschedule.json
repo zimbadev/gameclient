@@ -3,24 +3,24 @@
         {
             "colordark": "#235c00",
             "colorlight": "#2d7400",
-            "description": "Otserver br example 1 description double exp and a half, double loot !chance!, regular spawn and double skill",
+            "description": "Eexample 1 description double exp and a half, double loot !chance!, regular spawn and double skill",
             "displaypriority": 6,
-            "enddate": 1703905200,
+            "enddate": 1735614000,
             "isseasonal": false,
-            "name": "Example 1",
+            "name": "Eexample 1",
             "specialevent": 0,
-            "startdate": 1604372400
+            "startdate": 1704078000
         },
         {
             "colordark": "#735D10",
             "colorlight": "#8B6D05",
-            "description": "Otserver br example 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill",
+            "description": "Eexample 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill",
             "displaypriority": 6,
-            "enddate": 1703991600,
+            "enddate": 1735614000,
             "isseasonal": false,
-            "name": "Example 2",
+            "name": "Eexample 2",
             "specialevent": 0,
-            "startdate": 1643770800
+            "startdate": 1704078000
         },
         {
             "colordark": "#735D10",
@@ -34,5 +34,5 @@
             "startdate": 1736305200
         }
     ],
-    "lastupdatetimestamp": 1782128545
+    "lastupdatetimestamp": 1791888974
 }
